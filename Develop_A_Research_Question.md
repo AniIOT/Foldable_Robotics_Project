@@ -1,12 +1,16 @@
-Developing a Research Question
-Bryan Carlton1, Aniruddha Anand Damle1, Anson Kwan1, Jacob Yoshitake1
-Team 2: Swimming
-1Ira A. Fulton Schools of Engineering
-I. Question
+# EGR 557 Foldable Robotics
+## Develop A Research Question
+## Team 2
+### Bryan Carlton1, Aniruddha Anand Damle1, Anson Kwan1, Jacob Yoshitake1
+### 1Ira A. Fulton Schools of Engineering
+
+### I. Question
 How can a length-constrained segmented beam with a compliant tail propagate a sinusoidal wave to produce anguilliform locomotion?
-II. Tractability
+
+### II. Tractability
 In order to make this project tractable within the time frame of 15 weeks, we will be focusing on tuning our segmented beam to produce motion inspired by anguilliform locomotion or ‘eel-like’ swimming. Additionally, we will be focusing on only trying to tune one position for the segmented beam. This means that we will be only focusing on optimizing the joint stiffness for the mechanism for only one configuration of the system. For the purposes of this project, we will be starting in an ‘S’ configuration and try to flip the peaks of the stable position through a simple input of a servo motor. This will greatly improve the scope of this research because it defines the goal of the research as producing this configuration as opposed to finding the optimal configuration to produce this locomotion. By focusing our research on anguilliform locomotion and defining the configuration that we will use, the scope of the research will produce successful results for this semester.
-III. Novelty
+
+### III. Novelty
 For the purposes of understanding the various research spaces that anguilliform locomotion-based robots exist, we used keywords such as ‘anguilliform locomotion’, ‘undulatory motion’, ‘soft robotics’, ‘laminate’, and ‘eel inspired’. From these keywords, we were able to get an understanding of the existing research being conducted on anguilliform-inspired robots within the foldable robotics field.
 From these keywords, the most cited source was “A Geometric Approach to Anguilliform Locomotion: Modeling of an Underwater Eel Robot” [1]. This paper discusses the kinematics and simplification of anguilliform locomotion into rigid body segments and defined points of rotation [1]. This paper primarily focuses on using rigid bodies and actuation at every link. Unlike this paper, our research question will be focusing on creating undulations in the body of our system through only a single actuation and tuning our system to propagate the motion. The next most cited source was “Bio-inspired aquatic robotics by untethered piezohydroelastic actuation’ [2]. This journal entry discussed the tuning and utilization of piezoelectric laminates to produce the sinusoidal locomotion that characterizes many underwater movements [2]. Both this paper and our research questions discuss the concepts of single actuated, tunable laminate structures, but this paper focuses on carangiform locomotion which is exhibited in fish. Additionally, this paper uses
 the laminate structure as the form of actuation, while our question focuses on a method of
@@ -26,7 +30,8 @@ the traditionally complex systems that generate anguilliform locomotion, this is
 different ways. The goal of our research is to use a single traditional actuator, such as a servo, to
 produce this locomotion, while this paper focuses on using multiple pneumatic bellows to deform
 the spine.
-IV. Interesting
+
+### IV. Interesting
 With the development of newer and faster manufacturing methods, as well as various materials
 such as ionic polymer-metal composites (IPMCs), Shape memory alloys (SMAs), and
 magnetostrictive thin films, the development of bioinspired soft-robot locomotion has received a
@@ -36,7 +41,8 @@ underwater locomotion to marine robots in order to improve performance in variou
 missions such as search and rescue, naval intelligence, and surveillance and reconnaissance. The
 motivation for eel-like biometric locomotion ranges from underwater sensing and exploration for
 long-term ecological sustainability to drug delivery and disease screening in medicine.
-V. Open-Ended
+
+### V. Open-Ended
 In addition to our research question, there are a slew of other questions that could be asked. From
 the way that we defined and structured our research question, our primary focus is anguiliform
 locomotion and tuning for a single starting configuration. This means that there is an opportunity
@@ -46,7 +52,8 @@ Additionally, even within the scope of our question, there is potential to do a 
 optimizing a tail or compliant attachment to propagate the motion produced from the mechanism.
 Our research question's goal is to start looking into the possibilities for this mechanism, which is
 just a starting point for a variety of applications and dynamics that can be used with this system.
-VI. Modularity
+
+### VI. Modularity
 Our question can be applied to a wide range of research topics such as biomimicry, laminate
 robotics, aquatic propulsion, and unmanned surface vehicles (USV). Because we are focusing on
 inspired locomotion from eels, biologists can compare locomotion behaviors of eels with the
@@ -61,7 +68,8 @@ remotely in variable viscous fluids and land. Through our research, future work 
 developing and controlling this mechanism so that it can be applied to this field. There may be
 other applications of our research to other topics, but these three are the most prominent that we
 could recognize.
-VII. Team Fit
+
+### VII. Team Fit
 Our team members have a variety of interests and abilities that will be necessary to this research.
 Anson Kwan is currently conducting research on simulating and analyzing soft beams to produce
 anguilliform locomotion and has an interest in crossing over the concept of singular actuation to
@@ -92,7 +100,8 @@ with 3D modeling and production techniques like 3D printing, laser cutting, and 
 previously worked on multi-layered PCB design and development, as well as various ARM-based
 platforms. Although his interest is in Swarm Robotics, he hopes to develop a low-cost muscle
 design that can be used to build an origami-inspired quadruped robot with this research question.
-VIII. Topic Fit
+
+### VIII. Topic Fit
 For this research to be successful, it will be utilizing the techniques of analysis of geometric
 kinematics, dynamics, and laminate manufacturing processes for our device that will be taught
 over this course. In order to determine the joint stiffnesses of the segmented beam, we will need
@@ -106,7 +115,8 @@ for the flexibility of easily experimenting with a number of joints and links us
 materials and low manufacturing time. Since varying the stiffness of joints is just a relationship to
 how much material is removed between the joints and there is a multitude of configurations for
 how to design the joints, foldable techniques are an ideal solution to prototype our device.
-IX. Bibliography
+
+### IX. Bibliography
 [1] K. A. Melsaac and J. P. Ostrowski, “A geometric approach to anguilliform locomotion:
 Modelling of an underwater Eel Robot,” Proceedings 1999 IEEE International Conference on
 Robotics and Automation (Cat. No.99CH36288C), pp. 2843–2848, May 1999.
