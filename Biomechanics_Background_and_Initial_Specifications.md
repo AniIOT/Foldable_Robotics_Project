@@ -176,7 +176,26 @@ locomotion is 0.819 W.
 
 ### V. Figures
 
+![Pic1](01_Documents/04_Presentations/Biomechanics_Background_and_Initial_specifications/Fish_undulatory_propulsion.JPG)
+
+Figure 1. Four main categories of fish
+undulatory motion. The top figures denote the
+phases of a single gait phase and the lower
+visualize the midline movement of each motion
+[1].
+
+![Pic2](01_Documents/04_Presentations/Biomechanics_Background_and_Initial_specifications/Flow_fields_behind_swimming_eels.JPG)
+
+Figure 2. Flow of water generated from eel
+motion. Red represents clockwise motion and
+blue represents counter clockwise flow [3].
+
 ### VI. Engineering Representation
+
+![Pic3](01_Documents/04_Presentations/Biomechanics_Background_and_Initial_specifications/Engineering_representation.jpg)
+
+Figure 3. Engineering representation of
+proposed system
 
 As seen in Fig 3 the proposed system will
 consist of twelve rigid links connected through
