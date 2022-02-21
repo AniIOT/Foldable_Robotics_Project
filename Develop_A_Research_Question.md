@@ -117,13 +117,13 @@ how much material is removed between the joints and there is a multitude of conf
 how to design the joints, foldable techniques are an ideal solution to prototype our device.
 
 ### IX. Bibliography
-[1] K. A. Melsaac and J. P. Ostrowski, “A geometric approach to anguilliform locomotion:
-Modelling of an underwater Eel Robot,” Proceedings 1999 IEEE International Conference on
-Robotics and Automation (Cat. No.99CH36288C), pp. 2843–2848, May 1999.
-[2] L. Cen and A. Erturk, “Bio-inspired Aquatic Robotics by untethered piezohydroelastic
-actuation,” Bioinspiration & Biomimetics, vol. 8, no. 1, p. 016006, 2013.
-[3] A. Crespi, A. Badertscher, A. Guignard, and A. J. Ijspeert, “Amphibot I: An amphibious
-snake-like robot,” Robotics and Autonomous Systems, vol. 50, no. 4, pp. 163–175, 2005.
-[4] H. Feng, Y. Sun, P. A. Todd, and H. P. Lee, “Body wave generation for anguilliform
-locomotion using a fiber-reinforced soft fluidic elastomer actuator array toward the development
-of the EEL-inspired Underwater Soft Robot,” Soft Robotics, vol. 7, no. 2, pp. 233–250, 2020.
+#### [1] K. A. Melsaac and J. P. Ostrowski, “A geometric approach to anguilliform locomotion:
+#### Modelling of an underwater Eel Robot,” Proceedings 1999 IEEE International Conference on
+#### Robotics and Automation (Cat. No.99CH36288C), pp. 2843–2848, May 1999.
+#### [2] L. Cen and A. Erturk, “Bio-inspired Aquatic Robotics by untethered piezohydroelastic
+#### actuation,” Bioinspiration & Biomimetics, vol. 8, no. 1, p. 016006, 2013.
+#### [3] A. Crespi, A. Badertscher, A. Guignard, and A. J. Ijspeert, “Amphibot I: An amphibious
+#### snake-like robot,” Robotics and Autonomous Systems, vol. 50, no. 4, pp. 163–175, 2005.
+#### [4] H. Feng, Y. Sun, P. A. Todd, and H. P. Lee, “Body wave generation for anguilliform
+#### locomotion using a fiber-reinforced soft fluidic elastomer actuator array toward the development
+#### of the EEL-inspired Underwater Soft Robot,” Soft Robotics, vol. 7, no. 2, pp. 233–250, 2020.
