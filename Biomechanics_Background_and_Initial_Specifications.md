@@ -262,79 +262,16 @@ the microcontroller to reduce chance of water
 damage.
 
 ### VIII. Bibliography
-#### [1] G. V. Lauder and E. D. Tytell,
-#### “Hydrodynamics of undulatory propulsion,”
-#### Fish Physiology, pp. 425–468, 2005.
-#### [2] J. Long, “Muscles, elastic energy, and the
-#### dynamics of body stiffness in swimming eels,”
-#### American Zoologist, vol. 38, no. 4, pp. 771–792,
-#### 1998.
-#### [3] E. D. Tytell and G. V. Lauder, “The
-#### hydrodynamics of Eel Swimming,” Journal of
-#### Experimental Biology, vol. 207, no. 11, pp.
-#### 1825–1841, 2004.
-#### [4] E. D. Tytell, “The hydrodynamics of EEL
-#### swimming II. effect of swimming speed,”
-#### Journal of Experimental Biology, vol. 207, no.
-#### 19, pp. 3265–3279, 2004.
-#### [5] E. D. Tytell, C.-Y. Hsu, T. L. Williams, A. H.
-#### Cohen, and L. J. Fauci, “Interactions between
-#### internal forces, body stiffness, and fluid
-#### environment in a neuromechanical model of
-#### lamprey swimming,” Proceedings of the
-#### National Academy of Sciences, vol. 107, no. 46,
-#### pp. 19832–19837, 2010.
-#### [6] D. Q. Nguyen and V. A. Ho, “Kinematic
-#### Evaluation of a Series of Soft Actuators in
-#### Designing and Eel-inspired Robot.”
-#### International Symposium, Honolulu,
-#### 12-Jan-2020.
-#### [7]K. T. Du Clos and J. O. Dabiri, “Thrust
-#### generation during steady swimming and
-#### acceleration from rest in anguilliform
-#### swimmers.” The Company of Biologists Ltd,
-#### 2019.
-#### [8] R. Wang and Y. Wang, “Development and
-#### Motion Control of Biomimetic Underwater
-#### Robots: A Survey.” Carleton University.
-#### [9]U. K. Müller and J. Smit, “How the body
-#### contributes to the wake in undulatory fish
-#### swimming.” University of Groningen, 2001.
-#### [10] U. K. Müller and J. van den Boogaart and
-#### Johan, “Flow patterns of larval fish: undulatory
-#### swimming in the intermediate flow regime.” The
-#### Company of Biologists, 2008.
-#### [11] “2Pack SG90 Micro Servo Motor Mini
-#### Servo SG90 9g Servo Kit for RC Helicopter
-#### Airplane Car Boat Robot
-#### Arm/Hand/Walking/Servo Door Lock Control
-#### with Cable,” Amazon. [Online]. Available:
-#### https://www.amazon.com/Sipytoph-Helicopter-
-#### Airplane-Walking-Control/dp/B09185SC1W/ref
-#### =sr_1_20?crid=BQUQ0Y72FCVM&keywords=
-#### servo%2Bmotor&qid=1644791963&sprefix=ser
-#### vo%2Bmotor%2Caps%2C135&sr=8-20&th=1.
-#### [Accessed: 13-Feb-2022].
-#### [12] “Blomiky 6V 2200mAh Ni-MH 5 AA
-#### Rechargeable Battery Pack with SM-2P Black 2
-#### Pin Connector Plug and USB Charger Cable for
-#### RC Truck Cars Vehicles 6V NiMh,” Amazon.
-#### [Online]. Available:
-#### https://www.amazon.com/Blomiky-2200mAh-R
-#### echargeable-Battery-Vehicles/dp/B07PY8R3F4/r
-#### ef=sr_1_4?crid=121SI0NEQQXMU&amp;keyw
-#### ords=rechargeable+hobby+battery+pack+6v&a
-#### mp;qid=1644794867&amp;sprefix=rechargable
-#### +hobby+battery+pack+6v%2Caps%2C110&am
-#### p;sr=8-4. [Accessed: 13-Feb-2022].
-#### [13] “WEISE DS3218 Control Angle 180 High
-#### Torque Update Servo 20KG Full Metal Gear
-#### Digital Servo Baja Servo Waterproof Servo
-#### Mechanical arm Fittings RC Baja Cars,”
-#### Amazon. [Online]. Available:
-#### https://www.amazon.com/WEISE-Control-Water
-#### proof-Mechanical-Fittings/dp/B073M3X86S/ref
-#### =sr_1_43?crid=13Y92KBF7JR2M&keywords=s
-#### ervo+motor+50g&qid=1644791971&sprefix=se
-#### rvo+motor+50g%2Caps%2C121&sr=8-43.
-#### [Accessed: 13-Feb-2022].
+#### [1] G. V. Lauder and E. D. Tytell, “Hydrodynamics of undulatory propulsion,” Fish Physiology, pp. 425–468, 2005.
+#### [2] J. Long, “Muscles, elastic energy, and the dynamics of body stiffness in swimming eels,” American Zoologist, vol. 38, no. 4, pp. 771–792, 1998.
+#### [3] E. D. Tytell and G. V. Lauder, “The hydrodynamics of Eel Swimming,” Journal of Experimental Biology, vol. 207, no. 11, pp. 1825–1841, 2004.
+#### [4] E. D. Tytell, “The hydrodynamics of EEL swimming II. effect of swimming speed,” Journal of Experimental Biology, vol. 207, no. 19, pp. 3265–3279, 2004.
+#### [5] E. D. Tytell, C.-Y. Hsu, T. L. Williams, A. H. Cohen, and L. J. Fauci, “Interactions between internal forces, body stiffness, and fluid environment in a neuromechanical model of lamprey swimming,” Proceedings of the National Academy of Sciences, vol. 107, no. 46, pp. 19832–19837, 2010.
+#### [6] D. Q. Nguyen and V. A. Ho, “Kinematic Evaluation of a Series of Soft Actuators in Designing and Eel-inspired Robot.” International Symposium, Honolulu, 12-Jan-2020.
+#### [7]K. T. Du Clos and J. O. Dabiri, “Thrust generation during steady swimming and acceleration from rest in anguilliform swimmers.” The Company of Biologists Ltd, 2019.
+#### [8] R. Wang and Y. Wang, “Development and Motion Control of Biomimetic Underwater Robots: A Survey.” Carleton University.
+#### [9]U. K. Müller and J. Smit, “How the body contributes to the wake in undulatory fish swimming.” University of Groningen, 2001. 
+#### [10] U. K. Müller and J. van den Boogaart and Johan, “Flow patterns of larval fish: undulatory swimming in the intermediate flow regime.” The Company of Biologists, 2008.
+#### [11] “2Pack SG90 Micro Servo Motor Mini Servo SG90 9g Servo Kit for RC Helicopter Airplane Car Boat Robot Arm/Hand/Walking/Servo Door Lock Control with Cable,” Amazon. [Online]. Available: https://www.amazon.com/Sipytoph-Helicopter-Airplane-Walking-Control/dp/B09185SC1W/ref=sr_1_20?crid=BQUQ0Y72FCVM&keywords=servo%2Bmotor&qid=1644791963&sprefix=servo%2Bmotor%2Caps%2C135&sr=8-20&th=1. [Accessed: 13-Feb-2022].
+#### [12] “Blomiky 6V 2200mAh Ni-MH 5 AA Rechargeable Battery Pack with SM-2P Black 2 Pin Connector Plug and USB Charger Cable for RC Truck Cars Vehicles 6V NiMh,” Amazon. [Online]. Available: https://www.amazon.com/Blomiky-2200mAh-Rechargeable-Battery-Vehicles/dp/B07PY8R3F4/ref=sr_1_4?crid=121SI0NEQQXMU&amp;keywords=rechargeable+hobby+battery+pack+6v&amp;qid=1644794867&amp;sprefix=rechargable+hobby+battery+pack+6v%2Caps%2C110&amp;sr=8-4. [Accessed: 13-Feb-2022].
+#### [13] “WEISE DS3218 Control Angle 180 High Torque Update Servo 20KG Full Metal Gear Digital Servo Baja Servo Waterproof Servo Mechanical arm Fittings RC Baja Cars,” Amazon. [Online]. Available: https://www.amazon.com/WEISE-Control-Waterproof-Mechanical-Fittings/dp/B073M3X86S/ref=sr_1_43?crid=13Y92KBF7JR2M&keywords=servo+motor+50g&qid=1644791971&sprefix=servo+motor+50g%2Caps%2C121&sr=8-43. [Accessed: 13-Feb-2022].
