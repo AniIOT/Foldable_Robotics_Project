@@ -2,7 +2,7 @@
 title: Foldable Robotics Project
 ---
 
-# Project Title: 
+# Project Title: Tuned constrained beam inspired by anguilliform locomotion
 
 **Team 2**
 
