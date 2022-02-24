@@ -353,7 +353,9 @@ points_output.animate(fps = fps,movie_name = 'render.mp4',lw=2,marker='o',color=
 HTML(points_output.anim.to_html5_video())
 ~~~
 
-<iframe width="420" height="315" src="/01_Documents/04_Presentations/System_Kinematics/render.mp4" frameborder="0" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/55222960/155498709-8619ab1f-654c-41fe-9668-49103cd83bb2.mp4
+
 
 ~~~
 #Energy Plot
