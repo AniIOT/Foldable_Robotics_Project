@@ -353,7 +353,7 @@ points_output.animate(fps = fps,movie_name = 'render.mp4',lw=2,marker='o',color=
 HTML(points_output.anim.to_html5_video())
 ~~~
 
-<iframe width="420" height="315" src="render.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="/01_Documents/04_Presentations/System_Kinematics/render.mp4" frameborder="0" allowfullscreen></iframe>
 
 ~~~
 #Energy Plot
@@ -365,14 +365,16 @@ energy_output.plot_time(t)
 ~~~
 
 ![Pic4](/01_Documents/04_Presentations/System_Kinematics/Plot_4.png)
-```
+
+~~~
 #Plotting Motion of Tail
 plt.plot(y[:,7,0],y[:,7,1])
 plt.axis('equal')
 plt.title('Position of Tail')
 plt.xlabel('Position X (m)')
 plt.ylabel('Position Y (m)')
-```
+~~~
+
 ![Pic5](/01_Documents/04_Presentations/System_Kinematics/Plot_1.png)
 
 ### I. Discussion
