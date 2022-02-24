@@ -272,10 +272,13 @@ points_output = PointsOutput(points, constant_values=system.constant_values)
 points_output.calc(numpy.array([ini0,ini]),numpy.array([0,1]))
 points_output.plot_time()
 ~~~
-[Pic1]
+
+![Pic1](/01_Documents/04_Presentations/System_Kinematics/Plot_1.png)
+
 Plot of Device: Points are as follow from left to right. (pNA,pAB,pBC,pCD,pDE,pEF,pFG,pGtip).
 All the frames are relative to the newtonian frame. See last page of document to see diagram of
 device.
+
 ~~~
 #Solve for Torque at end effector (qG_tip)
 #Derivative of constraints
@@ -334,18 +337,24 @@ plt.figure()
 artists = plt.plot(t,states[:,:7])
 plt.legend(artists,['qA','qB','qC','qD','qE','qF','qG'])
 ~~~
-[Pic2]
+
+![Pic2](/01_Documents/04_Presentations/System_Kinematics/Plot_2.png)
+
 ~~~
 points_output = PointsOutput(points,system)
 y = points_output.calc(states,t)
 points_output.plot_time(20)
 ~~~
-[Pic3]
+
+![Pic3](/01_Documents/04_Presentations/System_Kinematics/Plot_3.png)
+
 ~~~
 points_output.animate(fps = fps,movie_name = 'render.mp4',lw=2,marker='o',color=(1,0,0,1),linestyle='-')
 HTML(points_output.anim.to_html5_video())
 ~~~
+
 <iframe width="420" height="315" src="render.mp4" frameborder="0" allowfullscreen></iframe>
+
 ~~~
 #Energy Plot
 KE = system.get_KE()
@@ -354,16 +363,17 @@ energy_output = Output([KE-PE],system)
 energy_output.calc(states,t)
 energy_output.plot_time(t)
 ~~~
-[Pic4]
-~~~
+
+![Pic4](/01_Documents/04_Presentations/System_Kinematics/Plot_4.png)
+```
 #Plotting Motion of Tail
 plt.plot(y[:,7,0],y[:,7,1])
 plt.axis('equal')
 plt.title('Position of Tail')
 plt.xlabel('Position X (m)')
 plt.ylabel('Position Y (m)')
-~~~
-[Pic5]
+```
+![Pic5](/01_Documents/04_Presentations/System_Kinematics/Plot_1.png)
 
 ### I. Discussion
 
@@ -380,5 +390,9 @@ Ans. The forces that would act upon were calculated using the pynamics package i
 Ans. Similar to force estimations, the speeds were also estimated using pynamics. These estimations allowed the team to estimate the torque of the end efector to be [0.003, -0.003]. These values have been validated through the Biomechanics Background assignment.
 
 ### II. Figures
-[Pic6]
-[Pic7]
+
+![Pic6](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_top.jpg)
+
+![Pic7](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_side.jpg)
+
+![Pic8](/01_Documents/04_Presentations/System_Kinematics/CAD.jpg)
