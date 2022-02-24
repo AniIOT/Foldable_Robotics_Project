@@ -355,8 +355,6 @@ HTML(points_output.anim.to_html5_video())
 
 <iframe width="420" height="315" src="https://github.com/AniIOT/Foldable_Robotics_Team_2_Swimming/blob/main/01_Documents/04_Presentations/System_Kinematics/render.mp4" frameborder="0" allowfullscreen></iframe>
 
-https://github.com/AniIOT/Foldable_Robotics_Team_2_Swimming/blob/main/01_Documents/04_Presentations/System_Kinematics/render.mp4
-
 ~~~
 #Energy Plot
 KE = system.get_KE()
