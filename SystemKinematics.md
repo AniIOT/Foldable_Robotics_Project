@@ -395,6 +395,12 @@ Ans. Similar to force estimations, the speeds were also estimated using pynamics
 
 ![Pic6](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_top.jpg)
 
+Fig. 6: Paper Model Top View
+
 ![Pic7](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_side.jpg)
 
+Fig. 6: Paper Model Side View
+
 ![Pic8](/01_Documents/04_Presentations/System_Kinematics/CAD.jpg)
+
+Fig. 6: Annotated CAD Model 
