@@ -21,6 +21,8 @@ title: Foldable Robotics Project
 
 * [System Kinematics](/SystemKinematics.md)
 
+* [Presentation 1](/Presentation_1.md)
+
 ## Background
 
 ## Results
