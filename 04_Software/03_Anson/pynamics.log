@@ -1520,3 +1520,109 @@
 2022-03-01 09:39:36,150 - pynamics.output - INFO - done calculating outputs
 2022-03-01 09:39:37,911 - pynamics.output - INFO - calculating outputs
 2022-03-01 09:39:37,999 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:01:06,067 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:01:07,720 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:01:12,402 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:01:12,999 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:01:12,999 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:01:13,023 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:01:13,031 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:01:14,879 - pynamics.integration - INFO - finished integration
+2022-03-01 10:01:15,272 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:01:15,328 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:01:17,079 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:01:17,151 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:02:24,859 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:02:26,579 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:02:31,483 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:02:32,291 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:02:32,300 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:02:32,323 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:02:32,323 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:02:34,279 - pynamics.integration - INFO - finished integration
+2022-03-01 10:02:34,612 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:02:34,632 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:02:36,222 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:02:36,294 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:06:01,495 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:06:03,057 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:06:07,392 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:06:07,968 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:06:07,968 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:06:07,992 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:06:07,992 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:06:09,170 - pynamics.integration - INFO - finished integration
+2022-03-01 10:06:09,374 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:06:09,395 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:06:10,936 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:06:11,000 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:11:48,313 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:11:49,850 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:11:54,128 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:11:54,759 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:11:54,759 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:11:54,783 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:11:54,783 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:11:54,823 - pynamics.integration - INFO - finished integration
+2022-03-01 10:11:55,090 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:11:55,108 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:14:45,030 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:14:47,191 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:14:51,767 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:14:52,513 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:14:52,513 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:14:52,537 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:14:52,537 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:14:54,130 - pynamics.integration - INFO - finished integration
+2022-03-01 10:14:54,339 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:14:54,356 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:14:56,070 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:14:56,142 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:15:55,284 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:15:56,826 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:16:01,154 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:16:01,961 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:16:01,961 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:16:01,984 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:16:01,984 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:16:02,497 - pynamics.integration - INFO - finished integration
+2022-03-01 10:16:02,726 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:16:02,750 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:16:04,422 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:16:04,502 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:17:05,318 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:17:06,895 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:17:11,490 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:17:12,119 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:17:12,119 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:17:12,143 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:17:12,143 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:17:13,141 - pynamics.integration - INFO - finished integration
+2022-03-01 10:17:13,368 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:17:13,386 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:17:14,900 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:17:14,964 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:18:01,668 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:18:03,206 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:18:07,770 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:18:08,511 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:18:08,511 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:18:08,535 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:18:08,535 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:18:09,460 - pynamics.integration - INFO - finished integration
+2022-03-01 10:18:09,724 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:18:09,756 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:18:11,437 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:18:11,509 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:19:15,459 - pynamics.system - INFO - getting dynamic equations
+2022-03-01 10:19:17,020 - pynamics.system - INFO - solving a = f/m and creating function
+2022-03-01 10:19:21,830 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-03-01 10:19:22,552 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-03-01 10:19:22,552 - pynamics.system - INFO - calculating function for lambdas
+2022-03-01 10:19:22,584 - pynamics.integration - INFO - beginning integration
+2022-03-01 10:19:22,584 - pynamics.system - INFO - integration at time 0000.00
+2022-03-01 10:19:24,115 - pynamics.integration - INFO - finished integration
+2022-03-01 10:19:24,331 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:19:24,345 - pynamics.output - INFO - done calculating outputs
+2022-03-01 10:19:26,258 - pynamics.output - INFO - calculating outputs
+2022-03-01 10:19:26,343 - pynamics.output - INFO - done calculating outputs
