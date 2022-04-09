@@ -579,20 +579,20 @@ HTML(points_output.anim.to_html5_video())
     <tr>
         <th>Link Stiffness</th>
         <td></td>
-        <td style = "background-color:green"></td>
-        <td style = "background-color:green"></td>
+        <td style = "background-color:#6FFB06"></td>
+        <td style = "background-color:#6FFB06"></td>
         <td></td>
     </tr>
     <tr>
         <th>Joint Stiffness and Damping</th>
-        <td style = "background-color:green"></td>
-        <td style = "background-color:green"></td>
-        <td style = "background-color:green"></td>
-        <td style = "background-color:green"></td>
+        <td style = "background-color:#6FFB06"></td>
+        <td style = "background-color:#6FFB06"></td>
+        <td style = "background-color:#6FFB06"></td>
+        <td style = "background-color:#6FFB06"></td>
     </tr>
     <tr>
         <th>Mass and Inertia</th>
-        <td style = "background-color:green"></td>
+        <td style = "background-color:#6FFB06"></td>
         <td></td>
         <td></td>
         <td></td>
@@ -602,12 +602,12 @@ HTML(points_output.anim.to_html5_video())
         <td></td>
         <td></td>
         <td></td>
-        <td style = "background-color:green"></td>
+        <td style = "background-color:#6FFB06"></td>
     </tr>
     <tr>
         <th>Code</th>
-        <td style = "background-color:green"></td>
-        <td style = "background-color:green"></td>
+        <td style = "background-color:#6FFB06"></td>
+        <td style = "background-color:#6FFB06"></td>
         <td></td>
         <td></td>
     </tr>
@@ -616,7 +616,7 @@ HTML(points_output.anim.to_html5_video())
         <td></td>
         <td></td>
         <td style = "background-color:#6FFB06"></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:#6FFB06"></td>
     </tr>
 </table>
     
