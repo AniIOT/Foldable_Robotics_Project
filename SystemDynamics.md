@@ -1,3 +1,4 @@
+<title>System Dyamics</title>
 # Dynamics I:
 
 ```python
@@ -576,20 +577,20 @@ HTML(points_output.anim.to_html5_video())
     <tr style = "background-color:green">
         <th>Link Stiffness</th>
         <td></td>
-        <td></td>
-        <td></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
         <td></td>
     </tr>
     <tr>
         <th>Joint Stiffness and Damping</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
     </tr>
     <tr>
         <th>Mass and Inertia</th>
-        <td></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
         <td></td>
         <td></td>
         <td></td>
@@ -599,12 +600,12 @@ HTML(points_output.anim.to_html5_video())
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
     </tr>
     <tr>
         <th>Code</th>
-        <td></td>
-        <td></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
         <td></td>
         <td></td>
     </tr>
@@ -612,8 +613,10 @@ HTML(points_output.anim.to_html5_video())
         <th>Prototyping</th>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
     </tr>
 </table>
+    
+
 </data>
