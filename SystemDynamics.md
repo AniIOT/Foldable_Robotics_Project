@@ -576,10 +576,10 @@ HTML(points_output.anim.to_html5_video())
         <th>Bryan</th>
         <th>Jacob</th>
     </tr>
-    <tr style = "background-color:green">
+    <tr>
         <th>Link Stiffness</th>
         <td></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:green"></td>
         <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
         <td></td>
     </tr>
