@@ -574,20 +574,44 @@ HTML(points_output.anim.to_html5_video())
     </tr>
     <tr>
         <th>Link Stiffness</th>
+        <td></td>
+        <td background-color:green></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Joint Stiffness and Damping</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Mass and Inertia</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Actuator Modeling</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Code</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Prototyping</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
