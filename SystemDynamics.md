@@ -426,7 +426,7 @@ points_output.plot_time(20)
 
 
     
-![png](/01_Documents/04_Presentations/System_Dynamics/output_22_2.png)
+![png](/01_Documents/04_Presentations/System_Dynamics/Dynamics_1/output_22_2.png)
     
 
 
@@ -449,7 +449,7 @@ plt.plot(t, lambda2)
 
 
     
-![png](/01_Documents/04_Presentations/System_Dynamics/output_23_1.png)
+![png](/01_Documents/04_Presentations/System_Dynamics/Dynamics_1/output_23_1.png)
     
 
 
@@ -470,7 +470,7 @@ energy_output.plot_time(t)
 
 
     
-![png](/01_Documents/04_Presentations/System_Dynamics/output_24_1.png)
+![png](/01_Documents/04_Presentations/System_Dynamics/Dynamics_1/output_24_1.png)
     
 
 
@@ -494,7 +494,7 @@ plt.ylabel('Position Y (m)')
 
 
     
-![png](/01_Documents/04_Presentations/System_Dynamics/output_25_1.png)
+![png](/01_Documents/04_Presentations/System_Dynamics/Dynamics_1/output_25_1.png)
     
 
 
@@ -512,14 +512,14 @@ HTML(points_output.anim.to_html5_video())
 
 
 <video width="432" height="288" controls autoplay loop>
-  <source type="video/mp4" src="/01_Documents/04_Presentations/System_Dynamics/dynamics.mp4">
+  <source type="video/mp4" src="/01_Documents/04_Presentations/System_Dynamics/Dynamics_1/dynamics.mp4">
 </video>
 
 
 
 
     
-![png](/01_Documents/04_Presentations/System_Dynamics/output_26_1.png)
+![png](/01_Documents/04_Presentations/System_Dynamics/Dynamics_1/output_26_1.png)
     
 
 
