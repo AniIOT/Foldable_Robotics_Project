@@ -1,5 +1,5 @@
 ---
-title:System Dyamics
+title: System Dyamics
 ---
 # Dynamics I:
 
