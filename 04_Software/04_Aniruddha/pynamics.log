@@ -5183,3 +5183,26 @@
 2022-04-08 21:42:06,144 - pynamics.output - INFO - done calculating outputs
 2022-04-08 21:42:14,796 - pynamics.output - INFO - calculating outputs
 2022-04-08 21:42:15,016 - pynamics.output - INFO - done calculating outputs
+2022-04-08 22:13:28,625 - pynamics.output - INFO - calculating outputs
+2022-04-08 22:13:28,633 - pynamics.output - INFO - done calculating outputs
+2022-04-08 22:13:30,601 - pynamics.system - INFO - getting dynamic equations
+2022-04-08 22:13:34,699 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-08 22:13:37,928 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-08 22:13:38,688 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-08 22:13:38,688 - pynamics.system - INFO - calculating function for lambdas
+2022-04-08 22:13:38,736 - pynamics.integration - INFO - beginning integration
+2022-04-08 22:13:38,736 - pynamics.system - INFO - integration at time 0000.00
+2022-04-08 22:14:16,261 - pynamics.output - INFO - calculating outputs
+2022-04-08 22:14:16,269 - pynamics.output - INFO - done calculating outputs
+2022-04-08 22:14:17,952 - pynamics.system - INFO - getting dynamic equations
+2022-04-08 22:14:22,492 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-08 22:14:25,524 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-08 22:14:26,422 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-08 22:14:26,423 - pynamics.system - INFO - calculating function for lambdas
+2022-04-08 22:14:26,511 - pynamics.integration - INFO - beginning integration
+2022-04-08 22:14:26,511 - pynamics.system - INFO - integration at time 0000.00
+2022-04-08 22:14:27,692 - pynamics.integration - INFO - finished integration
+2022-04-08 22:14:28,730 - pynamics.output - INFO - calculating outputs
+2022-04-08 22:14:28,802 - pynamics.output - INFO - done calculating outputs
+2022-04-08 22:14:31,544 - pynamics.output - INFO - calculating outputs
+2022-04-08 22:14:31,766 - pynamics.output - INFO - done calculating outputs
