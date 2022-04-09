@@ -1,4 +1,6 @@
-<title>System Dyamics</title>
+---
+title:System Dyamics
+---
 # Dynamics I:
 
 ```python
