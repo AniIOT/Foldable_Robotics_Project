@@ -580,19 +580,19 @@ HTML(points_output.anim.to_html5_video())
         <th>Link Stiffness</th>
         <td></td>
         <td style = "background-color:green"></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:green"></td>
         <td></td>
     </tr>
     <tr>
         <th>Joint Stiffness and Damping</th>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:green"></td>
+        <td style = "background-color:green"></td>
+        <td style = "background-color:green"></td>
+        <td style = "background-color:green"></td>
     </tr>
     <tr>
         <th>Mass and Inertia</th>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:green"></td>
         <td></td>
         <td></td>
         <td></td>
@@ -602,12 +602,12 @@ HTML(points_output.anim.to_html5_video())
         <td></td>
         <td></td>
         <td></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:green"></td>
     </tr>
     <tr>
         <th>Code</th>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:green"></td>
+        <td style = "background-color:green"></td>
         <td></td>
         <td></td>
     </tr>
@@ -615,7 +615,7 @@ HTML(points_output.anim.to_html5_video())
         <th>Prototyping</th>
         <td></td>
         <td></td>
-        <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
+        <td style = "background-color:green"></td>
         <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
     </tr>
 </table>
