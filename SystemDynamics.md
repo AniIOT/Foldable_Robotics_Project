@@ -615,7 +615,7 @@ HTML(points_output.anim.to_html5_video())
         <th>Prototyping</th>
         <td></td>
         <td></td>
-        <td style = "background-color:green"></td>
+        <td style = "background-color:#6FFB06"></td>
         <td><a href = "https://placeholder.com"><img src="https://via.placeholder.com/90x15/6FFB06/6FFB06.png/?text="></a></td>
     </tr>
 </table>
