@@ -564,9 +564,6 @@ HTML(points_output.anim.to_html5_video())
 
 # Individual Parameter ID:
 
-<style></style>
-
-<div class="parameterID">
 <table>
     <tr>
         <th>Tasks</th>
@@ -593,4 +590,4 @@ HTML(points_output.anim.to_html5_video())
     <tr>
         <th>Prototyping</th>
     </tr>
-</div>
+</table>
