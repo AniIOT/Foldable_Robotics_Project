@@ -564,6 +564,7 @@ HTML(points_output.anim.to_html5_video())
 
 # Individual Parameter ID:
 
+<data>
 <table>
     <tr>
         <th>Tasks</th>
@@ -572,10 +573,10 @@ HTML(points_output.anim.to_html5_video())
         <th>Bryan</th>
         <th>Jacob</th>
     </tr>
-    <tr>
+    <tr style = "background-color:green">
         <th>Link Stiffness</th>
         <td></td>
-        <td background-color:green></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
@@ -615,3 +616,4 @@ HTML(points_output.anim.to_html5_video())
         <td></td>
     </tr>
 </table>
+</data>
