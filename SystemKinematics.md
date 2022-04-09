@@ -1,3 +1,6 @@
+---
+title: System Kinematics 
+
 # Code:
 ```python
 %matplotlib inline
@@ -605,14 +608,14 @@ Ans. Similar to force estimations, the speeds were also estimated using pynamics
 
 ### II. Figures
 
-![Pic6](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_top.jpg)
+![jpg](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_top.jpg)
 
-Fig. 6: Paper Model Top View
+Fig. 1: Paper Model Top View
 
-![Pic7](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_side.jpg)
+![jpg](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_side.jpg)
 
-Fig. 6: Paper Model Side View
-
-![Pic8](/01_Documents/04_Presentations/System_Kinematics/CAD.jpg)
-
-Fig. 6: Annotated CAD Model 
+Fig. 2: Paper Model Side View
+ 
+![jpg](/01_Documents/04_Presentations/System_Kinematics/CAD.jpg)
+ 
+Fig. 3: Annotated CAD Model 
