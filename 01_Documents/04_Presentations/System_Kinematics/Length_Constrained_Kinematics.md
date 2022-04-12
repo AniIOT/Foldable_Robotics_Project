@@ -1,8 +1,3 @@
----
-title: System Kinematics 
----
-
-# Code:
 ```python
 %matplotlib inline
 ```
@@ -267,8 +262,8 @@ system.add_spring_force1(k,(qG-qF)*N.z,wFG)
 
 
 
-    (<pynamics.force.Force at 0x1e3874a5760>,
-     <pynamics.spring.Spring at 0x1e3875af7c0>)
+    (<pynamics.force.Force at 0x1a4c141fd30>,
+     <pynamics.spring.Spring at 0x1a4c141f610>)
 
 
 
@@ -337,8 +332,8 @@ points_output.calc(numpy.array([ini0,ini]),numpy.array([0,1]))
 points_output.plot_time()
 ```
 
-    2022-04-08 17:12:12,727 - pynamics.output - INFO - calculating outputs
-    2022-04-08 17:12:13,015 - pynamics.output - INFO - done calculating outputs
+    2022-04-08 22:14:16,261 - pynamics.output - INFO - calculating outputs
+    2022-04-08 22:14:16,269 - pynamics.output - INFO - done calculating outputs
     
 
 
@@ -350,7 +345,7 @@ points_output.plot_time()
 
 
     
-![png](/01_Documents/04_Presentations/System_Kinematics/output_13_2.png)
+![png](output_13_2.png)
     
 
 
@@ -437,26 +432,26 @@ artists = plt.plot(t,states[:,:7])
 plt.legend(artists,['qA','qB','qC','qD','qE','qF','qG'])
 ```
 
-    2022-04-08 17:12:14,427 - pynamics.system - INFO - getting dynamic equations
-    2022-04-08 17:12:18,296 - pynamics.system - INFO - solving a = f/m and creating function
-    2022-04-08 17:12:21,534 - pynamics.system - INFO - substituting constrained in Ma-f.
-    2022-04-08 17:12:22,178 - pynamics.system - INFO - done solving a = f/m and creating function
-    2022-04-08 17:12:22,178 - pynamics.system - INFO - calculating function for lambdas
-    2022-04-08 17:12:22,380 - pynamics.integration - INFO - beginning integration
-    2022-04-08 17:12:22,380 - pynamics.system - INFO - integration at time 0000.00
-    2022-04-08 17:12:23,125 - pynamics.integration - INFO - finished integration
+    2022-04-08 22:14:17,952 - pynamics.system - INFO - getting dynamic equations
+    2022-04-08 22:14:22,492 - pynamics.system - INFO - solving a = f/m and creating function
+    2022-04-08 22:14:25,524 - pynamics.system - INFO - substituting constrained in Ma-f.
+    2022-04-08 22:14:26,422 - pynamics.system - INFO - done solving a = f/m and creating function
+    2022-04-08 22:14:26,423 - pynamics.system - INFO - calculating function for lambdas
+    2022-04-08 22:14:26,511 - pynamics.integration - INFO - beginning integration
+    2022-04-08 22:14:26,511 - pynamics.system - INFO - integration at time 0000.00
+    2022-04-08 22:14:27,692 - pynamics.integration - INFO - finished integration
     
 
 
 
 
-    <matplotlib.legend.Legend at 0x1e38999c0d0>
+    <matplotlib.legend.Legend at 0x1a4c36ec100>
 
 
 
 
     
-![png](/01_Documents/04_Presentations/System_Kinematics/output_17_2.png)
+![png](output_17_2.png)
     
 
 
@@ -467,8 +462,8 @@ y = points_output.calc(states,t)
 points_output.plot_time(20)
 ```
 
-    2022-04-08 17:12:23,720 - pynamics.output - INFO - calculating outputs
-    2022-04-08 17:12:23,769 - pynamics.output - INFO - done calculating outputs
+    2022-04-08 22:14:28,730 - pynamics.output - INFO - calculating outputs
+    2022-04-08 22:14:28,802 - pynamics.output - INFO - done calculating outputs
     
 
 
@@ -480,7 +475,7 @@ points_output.plot_time(20)
 
 
     
-![png](/01_Documents/04_Presentations/System_Kinematics/output_18_2.png)
+![png](output_18_2.png)
     
 
 
@@ -496,14 +491,14 @@ plt.plot(t, lambda2)
 
 
 
-    [<matplotlib.lines.Line2D at 0x1e38bb7ae80>,
-     <matplotlib.lines.Line2D at 0x1e38bb7aee0>]
+    [<matplotlib.lines.Line2D at 0x1a4c5a00d90>,
+     <matplotlib.lines.Line2D at 0x1a4c5a00df0>]
 
 
 
 
     
-![png](/01_Documents/04_Presentations/System_Kinematics/output_19_1.png)
+![png](output_19_1.png)
     
 
 
@@ -518,13 +513,13 @@ energy_output.calc(states,t)
 energy_output.plot_time(t)
 ```
 
-    2022-04-08 17:12:25,509 - pynamics.output - INFO - calculating outputs
-    2022-04-08 17:12:25,662 - pynamics.output - INFO - done calculating outputs
+    2022-04-08 22:14:31,544 - pynamics.output - INFO - calculating outputs
+    2022-04-08 22:14:31,766 - pynamics.output - INFO - done calculating outputs
     
 
 
     
-![png](/01_Documents/04_Presentations/System_Kinematics/output_20_1.png)
+![png](output_20_1.png)
     
 
 
@@ -548,7 +543,7 @@ plt.ylabel('Position Y (m)')
 
 
     
-![png](/01_Documents/04_Presentations/System_Kinematics/output_21_1.png)
+![png](output_21_1.png)
     
 
 
@@ -1934,7 +1929,7 @@ AB1kYXRhAAAAAQAAAABMYXZmNTguNDUuMTAw
 
 
     
-![png](/01_Documents/04_Presentations/System_Kinematics/output_22_1.png)
+![png](output_22_1.png)
     
 
 
@@ -1956,32 +1951,3 @@ The forces that would act upon were calculated using the pynamics package in Pyt
  
 Similarly to force estimations, the speeds were also estimated using pynamics. These estimations allowed the team to estimate the torque of the end efector to be [0.003, -0.003]. These values have been validated through the Biomechanics Background assignment. 
 
-
-
-### I. Discussion
-
-1. How many degrees of freedom does your device have? How many motors? If the answer is not the same, what determines the state of the remaining degrees of freedom? How did you arrive at that number?
-Ans. Our device has five degrees of freedom, and the team plans to actuate it using a single servo motor. The rest of the segments will be constrained except for an unconstrained tail. We arrived at this conclusion by constraining multiple joints to see at what point we lose all foldable motion.
-
-2. If your mechanism has more than one degree of freedom, please describe how those multiple degrees of freedom will work together to create a locomotory gait or useful motion. What is your plan for synchronizing, especially if passive energy storage?
-Ans. In order to achieve the desired undulatory motion, the plan is to tune the stiffness of each joint. Through simulation, the team will determine the necessary stiffness of the joints in order to achieve the sinusoidal movement.
-
-3. How did you estimate your expected end-effector forces?
-Ans. The forces that would act upon were calculated using the pynamics package in Python while running the simulation of a given force. It is almost impossible determine the expected forces at the tail of eels because they are unstable systems when held stationary. Additionally for this device, the force of the output is not critical and it is more crucial to tune the spine to imitate the motion of eels
-
-4. How did you estimate your expected end-effector speeds?
-Ans. Similar to force estimations, the speeds were also estimated using pynamics. These estimations allowed the team to estimate the torque of the end efector to be [0.003, -0.003]. These values have been validated through the Biomechanics Background assignment.
-
-### II. Figures
-
-![jpg](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_top.jpg)
-
-Fig. 1: Paper Model Top View
-
-![jpg](/01_Documents/04_Presentations/System_Kinematics/Paper_Model_side.jpg)
-
-Fig. 2: Paper Model Side View
- 
-![jpg](/01_Documents/04_Presentations/System_Kinematics/CAD.jpg)
- 
-Fig. 3: Annotated CAD Model 

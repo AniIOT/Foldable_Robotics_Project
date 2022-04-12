@@ -23,6 +23,10 @@ title: Foldable Robotics Project
 
 * [Presentation 1](/Presentation_1.md)
 
+* [System Dynamics](/SystemDynamics.md)
+
+* [Presentation 2](Presentation_2.md)
+
 ## Background
 
 ## Results
