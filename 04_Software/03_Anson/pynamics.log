@@ -5850,3 +5850,28 @@
 2022-04-12 16:20:43,031 - pynamics.output - INFO - done calculating outputs
 2022-04-12 16:20:43,310 - pynamics.system - INFO - getting dynamic equations
 2022-04-12 16:20:45,275 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-12 21:47:11,006 - pynamics.output - INFO - calculating outputs
+2022-04-12 21:47:11,009 - pynamics.output - INFO - done calculating outputs
+2022-04-12 21:47:11,184 - pynamics.system - INFO - getting dynamic equations
+2022-04-12 21:47:12,302 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-12 21:47:19,557 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-12 21:47:20,816 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-12 21:47:20,817 - pynamics.system - INFO - calculating function for lambdas
+2022-04-12 21:47:20,859 - pynamics.integration - INFO - beginning integration
+2022-04-12 21:47:20,859 - pynamics.system - INFO - integration at time 0000.00
+2022-04-12 21:47:29,623 - pynamics.system - INFO - integration at time 0000.54
+2022-04-12 21:47:38,334 - pynamics.system - INFO - integration at time 0001.04
+2022-04-12 21:47:47,084 - pynamics.system - INFO - integration at time 0001.55
+2022-04-12 21:47:55,754 - pynamics.system - INFO - integration at time 0002.10
+2022-04-12 21:48:04,373 - pynamics.system - INFO - integration at time 0002.55
+2022-04-12 21:48:12,984 - pynamics.system - INFO - integration at time 0003.05
+2022-04-12 21:48:21,597 - pynamics.system - INFO - integration at time 0003.46
+2022-04-12 21:48:30,220 - pynamics.system - INFO - integration at time 0003.83
+2022-04-12 21:48:38,827 - pynamics.system - INFO - integration at time 0004.26
+2022-04-12 21:48:47,460 - pynamics.system - INFO - integration at time 0004.50
+2022-04-12 21:48:56,084 - pynamics.system - INFO - integration at time 0004.68
+2022-04-12 21:49:04,543 - pynamics.integration - INFO - finished integration
+2022-04-12 21:49:04,735 - pynamics.output - INFO - calculating outputs
+2022-04-12 21:49:04,746 - pynamics.output - INFO - done calculating outputs
+2022-04-12 21:49:06,338 - pynamics.output - INFO - calculating outputs
+2022-04-12 21:49:06,393 - pynamics.output - INFO - done calculating outputs
