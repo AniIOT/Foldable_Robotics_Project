@@ -6126,3 +6126,829 @@
 2022-04-18 19:37:36,223 - pynamics.output - INFO - done calculating outputs
 2022-04-18 19:37:36,844 - pynamics.output - INFO - calculating outputs
 2022-04-18 19:37:36,848 - pynamics.output - INFO - done calculating outputs
+2022-04-18 23:16:13,061 - pynamics.system - INFO - getting dynamic equations
+2022-04-18 23:16:39,733 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:17:23,941 - pynamics.system - INFO - getting dynamic equations
+2022-04-18 23:17:50,643 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:19:06,272 - pynamics.integration - INFO - finished integration
+2022-04-18 23:19:06,274 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:20:21,595 - pynamics.integration - INFO - finished integration
+2022-04-18 23:20:21,597 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:21:37,048 - pynamics.integration - INFO - finished integration
+2022-04-18 23:21:37,050 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:22:52,671 - pynamics.integration - INFO - finished integration
+2022-04-18 23:22:52,672 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:24:08,180 - pynamics.integration - INFO - finished integration
+2022-04-18 23:24:08,182 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:25:23,561 - pynamics.integration - INFO - finished integration
+2022-04-18 23:25:23,563 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:26:38,934 - pynamics.integration - INFO - finished integration
+2022-04-18 23:26:38,935 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:27:54,266 - pynamics.integration - INFO - finished integration
+2022-04-18 23:27:54,268 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:29:09,619 - pynamics.integration - INFO - finished integration
+2022-04-18 23:29:09,620 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:30:24,992 - pynamics.integration - INFO - finished integration
+2022-04-18 23:30:24,994 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:31:40,201 - pynamics.integration - INFO - finished integration
+2022-04-18 23:31:40,203 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:32:55,507 - pynamics.integration - INFO - finished integration
+2022-04-18 23:32:55,509 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:34:11,035 - pynamics.integration - INFO - finished integration
+2022-04-18 23:34:11,037 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:35:26,380 - pynamics.integration - INFO - finished integration
+2022-04-18 23:35:26,382 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:36:41,912 - pynamics.integration - INFO - finished integration
+2022-04-18 23:36:41,914 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:37:57,368 - pynamics.integration - INFO - finished integration
+2022-04-18 23:37:57,370 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:39:12,663 - pynamics.integration - INFO - finished integration
+2022-04-18 23:39:12,665 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:40:28,279 - pynamics.integration - INFO - finished integration
+2022-04-18 23:40:28,281 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:41:43,877 - pynamics.integration - INFO - finished integration
+2022-04-18 23:41:43,879 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:42:59,121 - pynamics.integration - INFO - finished integration
+2022-04-18 23:42:59,123 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:44:14,452 - pynamics.integration - INFO - finished integration
+2022-04-18 23:44:14,454 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:45:29,967 - pynamics.integration - INFO - finished integration
+2022-04-18 23:45:29,968 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:46:45,302 - pynamics.integration - INFO - finished integration
+2022-04-18 23:46:45,303 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:48:00,654 - pynamics.integration - INFO - finished integration
+2022-04-18 23:48:00,655 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:49:16,041 - pynamics.integration - INFO - finished integration
+2022-04-18 23:49:16,043 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:50:31,478 - pynamics.integration - INFO - finished integration
+2022-04-18 23:50:31,480 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:51:46,987 - pynamics.integration - INFO - finished integration
+2022-04-18 23:51:46,988 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:53:02,400 - pynamics.integration - INFO - finished integration
+2022-04-18 23:53:02,402 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:54:17,848 - pynamics.integration - INFO - finished integration
+2022-04-18 23:54:17,849 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:55:33,138 - pynamics.integration - INFO - finished integration
+2022-04-18 23:55:33,140 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:56:48,464 - pynamics.integration - INFO - finished integration
+2022-04-18 23:56:48,465 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:58:03,872 - pynamics.integration - INFO - finished integration
+2022-04-18 23:58:03,874 - pynamics.integration - INFO - beginning integration
+2022-04-18 23:59:19,078 - pynamics.integration - INFO - finished integration
+2022-04-18 23:59:19,080 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:00:34,402 - pynamics.integration - INFO - finished integration
+2022-04-19 00:00:34,404 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:01:49,862 - pynamics.integration - INFO - finished integration
+2022-04-19 00:01:49,864 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:03:05,258 - pynamics.integration - INFO - finished integration
+2022-04-19 00:03:05,260 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:04:20,615 - pynamics.integration - INFO - finished integration
+2022-04-19 00:04:20,617 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:05:36,152 - pynamics.integration - INFO - finished integration
+2022-04-19 00:05:36,153 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:06:51,581 - pynamics.integration - INFO - finished integration
+2022-04-19 00:06:51,605 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:08:07,322 - pynamics.integration - INFO - finished integration
+2022-04-19 00:08:07,349 - pynamics.output - INFO - calculating outputs
+2022-04-19 00:08:07,355 - pynamics.output - INFO - done calculating outputs
+2022-04-19 00:17:29,240 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 00:17:56,462 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:19:11,996 - pynamics.integration - INFO - finished integration
+2022-04-19 00:19:11,998 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:20:27,965 - pynamics.integration - INFO - finished integration
+2022-04-19 00:20:27,967 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:21:43,986 - pynamics.integration - INFO - finished integration
+2022-04-19 00:21:43,988 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:23:01,658 - pynamics.integration - INFO - finished integration
+2022-04-19 00:23:01,659 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:24:17,720 - pynamics.integration - INFO - finished integration
+2022-04-19 00:24:17,722 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:25:33,741 - pynamics.integration - INFO - finished integration
+2022-04-19 00:25:33,742 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:26:49,744 - pynamics.integration - INFO - finished integration
+2022-04-19 00:26:49,744 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:27:47,348 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 00:28:13,297 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:29:41,507 - pynamics.integration - INFO - finished integration
+2022-04-19 00:29:41,509 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:31:10,343 - pynamics.integration - INFO - finished integration
+2022-04-19 00:31:10,345 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:32:39,231 - pynamics.integration - INFO - finished integration
+2022-04-19 00:32:39,233 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:34:07,679 - pynamics.integration - INFO - finished integration
+2022-04-19 00:34:07,680 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:35:36,153 - pynamics.integration - INFO - finished integration
+2022-04-19 00:35:36,154 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:37:04,547 - pynamics.integration - INFO - finished integration
+2022-04-19 00:37:04,548 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:38:33,083 - pynamics.integration - INFO - finished integration
+2022-04-19 00:38:33,084 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:40:01,480 - pynamics.integration - INFO - finished integration
+2022-04-19 00:40:01,481 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:41:30,154 - pynamics.integration - INFO - finished integration
+2022-04-19 00:41:30,157 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:43:00,156 - pynamics.integration - INFO - finished integration
+2022-04-19 00:43:00,158 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:44:28,760 - pynamics.integration - INFO - finished integration
+2022-04-19 00:44:28,762 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:45:57,315 - pynamics.integration - INFO - finished integration
+2022-04-19 00:45:57,317 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:47:25,879 - pynamics.integration - INFO - finished integration
+2022-04-19 00:47:25,881 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:48:54,241 - pynamics.integration - INFO - finished integration
+2022-04-19 00:48:54,243 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:50:22,820 - pynamics.integration - INFO - finished integration
+2022-04-19 00:50:22,821 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:51:51,223 - pynamics.integration - INFO - finished integration
+2022-04-19 00:51:51,225 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:53:19,816 - pynamics.integration - INFO - finished integration
+2022-04-19 00:53:19,818 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:54:48,176 - pynamics.integration - INFO - finished integration
+2022-04-19 00:54:48,177 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:56:16,502 - pynamics.integration - INFO - finished integration
+2022-04-19 00:56:16,503 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:57:44,955 - pynamics.integration - INFO - finished integration
+2022-04-19 00:57:44,956 - pynamics.integration - INFO - beginning integration
+2022-04-19 00:59:13,336 - pynamics.integration - INFO - finished integration
+2022-04-19 00:59:13,338 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:00:41,919 - pynamics.integration - INFO - finished integration
+2022-04-19 01:00:41,920 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:02:10,393 - pynamics.integration - INFO - finished integration
+2022-04-19 01:02:10,395 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:03:39,149 - pynamics.integration - INFO - finished integration
+2022-04-19 01:03:39,150 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:05:07,815 - pynamics.integration - INFO - finished integration
+2022-04-19 01:05:07,816 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:06:36,246 - pynamics.integration - INFO - finished integration
+2022-04-19 01:06:36,247 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:08:04,902 - pynamics.integration - INFO - finished integration
+2022-04-19 01:08:04,904 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:09:33,336 - pynamics.integration - INFO - finished integration
+2022-04-19 01:09:33,337 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:11:01,931 - pynamics.integration - INFO - finished integration
+2022-04-19 01:11:01,932 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:12:30,554 - pynamics.integration - INFO - finished integration
+2022-04-19 01:12:30,555 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:13:59,093 - pynamics.integration - INFO - finished integration
+2022-04-19 01:13:59,095 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:15:27,510 - pynamics.integration - INFO - finished integration
+2022-04-19 01:15:27,512 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:16:55,900 - pynamics.integration - INFO - finished integration
+2022-04-19 01:16:55,902 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:18:24,314 - pynamics.integration - INFO - finished integration
+2022-04-19 01:18:24,315 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:19:52,985 - pynamics.integration - INFO - finished integration
+2022-04-19 01:19:52,987 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:21:21,592 - pynamics.integration - INFO - finished integration
+2022-04-19 01:21:21,594 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:22:50,193 - pynamics.integration - INFO - finished integration
+2022-04-19 01:22:50,196 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:24:18,788 - pynamics.integration - INFO - finished integration
+2022-04-19 01:24:18,789 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:25:47,417 - pynamics.integration - INFO - finished integration
+2022-04-19 01:25:47,433 - pynamics.integration - INFO - beginning integration
+2022-04-19 01:27:15,838 - pynamics.integration - INFO - finished integration
+2022-04-19 01:27:15,867 - pynamics.output - INFO - calculating outputs
+2022-04-19 01:27:15,872 - pynamics.output - INFO - done calculating outputs
+2022-04-19 09:47:41,177 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 09:47:50,933 - pynamics.integration - INFO - beginning integration
+2022-04-19 09:59:58,481 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 10:00:08,039 - pynamics.integration - INFO - beginning integration
+2022-04-19 10:01:41,521 - pynamics.integration - INFO - finished integration
+2022-04-19 10:01:41,550 - pynamics.output - INFO - calculating outputs
+2022-04-19 10:01:41,555 - pynamics.output - INFO - done calculating outputs
+2022-04-19 10:01:42,190 - pynamics.output - INFO - calculating outputs
+2022-04-19 10:01:42,195 - pynamics.output - INFO - done calculating outputs
+2022-04-19 21:42:35,503 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 21:42:44,395 - pynamics.integration - INFO - beginning integration
+2022-04-19 21:46:58,801 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 21:47:18,665 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 21:47:27,563 - pynamics.integration - INFO - beginning integration
+2022-04-19 21:50:55,905 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 21:51:04,951 - pynamics.integration - INFO - beginning integration
+2022-04-19 21:53:03,717 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 21:53:12,647 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:02:16,768 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:02:25,815 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:03:14,839 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:03:23,852 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:03:44,584 - pynamics.integration - INFO - finished integration
+2022-04-19 22:03:44,609 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:03:44,614 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:03:45,265 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:03:45,270 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:07:15,333 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:07:24,223 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:10:23,105 - pynamics.integration - INFO - finished integration
+2022-04-19 22:10:23,133 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:10:23,140 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:10:23,729 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:10:23,734 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:16:27,162 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:16:36,055 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:16:53,599 - pynamics.integration - INFO - finished integration
+2022-04-19 22:16:53,625 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:16:53,629 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:16:54,233 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:16:54,238 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:21:05,914 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:21:14,764 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:24:14,446 - pynamics.integration - INFO - finished integration
+2022-04-19 22:24:14,475 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:24:14,481 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:24:15,077 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:24:15,082 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:29:01,592 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:29:10,467 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:29:28,089 - pynamics.integration - INFO - finished integration
+2022-04-19 22:29:28,115 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:29:28,120 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:29:28,719 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:29:28,723 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:37:19,704 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:37:28,516 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:37:46,040 - pynamics.integration - INFO - finished integration
+2022-04-19 22:37:46,069 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:37:46,075 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:37:46,675 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:37:46,679 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:38:12,455 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:38:21,260 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:41:19,935 - pynamics.integration - INFO - finished integration
+2022-04-19 22:41:19,963 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:41:19,968 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:41:20,560 - pynamics.output - INFO - calculating outputs
+2022-04-19 22:41:20,564 - pynamics.output - INFO - done calculating outputs
+2022-04-19 22:47:41,143 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:48:01,677 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:48:17,954 - pynamics.integration - INFO - finished integration
+2022-04-19 22:48:17,956 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:48:34,374 - pynamics.integration - INFO - finished integration
+2022-04-19 22:48:34,376 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:48:50,841 - pynamics.integration - INFO - finished integration
+2022-04-19 22:48:50,843 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:49:07,329 - pynamics.integration - INFO - finished integration
+2022-04-19 22:49:07,331 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:49:27,683 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:50:27,685 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:50:46,878 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:51:07,300 - pynamics.integration - INFO - finished integration
+2022-04-19 22:51:07,302 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:51:27,696 - pynamics.integration - INFO - finished integration
+2022-04-19 22:51:27,698 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:51:48,074 - pynamics.integration - INFO - finished integration
+2022-04-19 22:51:48,076 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:52:10,055 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 22:52:29,328 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:52:49,673 - pynamics.integration - INFO - finished integration
+2022-04-19 22:52:49,675 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:53:10,076 - pynamics.integration - INFO - finished integration
+2022-04-19 22:53:10,078 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:53:30,546 - pynamics.integration - INFO - finished integration
+2022-04-19 22:53:30,548 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:53:50,950 - pynamics.integration - INFO - finished integration
+2022-04-19 22:53:50,952 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:54:11,367 - pynamics.integration - INFO - finished integration
+2022-04-19 22:54:11,369 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:54:31,782 - pynamics.integration - INFO - finished integration
+2022-04-19 22:54:31,784 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:54:52,204 - pynamics.integration - INFO - finished integration
+2022-04-19 22:54:52,206 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:55:12,601 - pynamics.integration - INFO - finished integration
+2022-04-19 22:55:12,602 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:55:32,998 - pynamics.integration - INFO - finished integration
+2022-04-19 22:55:33,000 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:55:53,374 - pynamics.integration - INFO - finished integration
+2022-04-19 22:55:53,375 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:56:13,741 - pynamics.integration - INFO - finished integration
+2022-04-19 22:56:13,743 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:56:34,227 - pynamics.integration - INFO - finished integration
+2022-04-19 22:56:34,228 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:56:54,723 - pynamics.integration - INFO - finished integration
+2022-04-19 22:56:54,724 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:57:15,207 - pynamics.integration - INFO - finished integration
+2022-04-19 22:57:15,208 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:57:35,661 - pynamics.integration - INFO - finished integration
+2022-04-19 22:57:35,663 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:57:56,071 - pynamics.integration - INFO - finished integration
+2022-04-19 22:57:56,073 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:58:16,526 - pynamics.integration - INFO - finished integration
+2022-04-19 22:58:16,528 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:58:36,927 - pynamics.integration - INFO - finished integration
+2022-04-19 22:58:36,929 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:58:57,359 - pynamics.integration - INFO - finished integration
+2022-04-19 22:58:57,360 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:59:17,749 - pynamics.integration - INFO - finished integration
+2022-04-19 22:59:17,751 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:59:38,126 - pynamics.integration - INFO - finished integration
+2022-04-19 22:59:38,127 - pynamics.integration - INFO - beginning integration
+2022-04-19 22:59:58,605 - pynamics.integration - INFO - finished integration
+2022-04-19 22:59:58,606 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:00:19,074 - pynamics.integration - INFO - finished integration
+2022-04-19 23:00:19,075 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:00:39,470 - pynamics.integration - INFO - finished integration
+2022-04-19 23:00:39,472 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:00:59,941 - pynamics.integration - INFO - finished integration
+2022-04-19 23:00:59,942 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:01:20,417 - pynamics.integration - INFO - finished integration
+2022-04-19 23:01:20,420 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:01:40,851 - pynamics.integration - INFO - finished integration
+2022-04-19 23:01:40,853 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:02:01,282 - pynamics.integration - INFO - finished integration
+2022-04-19 23:02:01,284 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:02:21,678 - pynamics.integration - INFO - finished integration
+2022-04-19 23:02:21,680 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:02:42,191 - pynamics.integration - INFO - finished integration
+2022-04-19 23:02:42,193 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:03:02,852 - pynamics.integration - INFO - finished integration
+2022-04-19 23:03:02,870 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:03:23,311 - pynamics.integration - INFO - finished integration
+2022-04-19 23:03:23,342 - pynamics.output - INFO - calculating outputs
+2022-04-19 23:03:23,347 - pynamics.output - INFO - done calculating outputs
+2022-04-19 23:07:38,078 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 23:07:58,314 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:08:18,832 - pynamics.integration - INFO - finished integration
+2022-04-19 23:08:18,834 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:08:39,272 - pynamics.integration - INFO - finished integration
+2022-04-19 23:08:39,274 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:08:59,707 - pynamics.integration - INFO - finished integration
+2022-04-19 23:08:59,708 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:09:20,128 - pynamics.integration - INFO - finished integration
+2022-04-19 23:09:20,129 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:09:40,543 - pynamics.integration - INFO - finished integration
+2022-04-19 23:09:40,544 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:10:00,959 - pynamics.integration - INFO - finished integration
+2022-04-19 23:10:00,962 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:10:21,425 - pynamics.integration - INFO - finished integration
+2022-04-19 23:10:21,426 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:10:41,887 - pynamics.integration - INFO - finished integration
+2022-04-19 23:10:41,889 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:11:02,447 - pynamics.integration - INFO - finished integration
+2022-04-19 23:11:02,448 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:11:23,169 - pynamics.integration - INFO - finished integration
+2022-04-19 23:11:23,171 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:11:43,750 - pynamics.integration - INFO - finished integration
+2022-04-19 23:11:43,752 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:12:04,224 - pynamics.integration - INFO - finished integration
+2022-04-19 23:12:04,226 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:12:24,674 - pynamics.integration - INFO - finished integration
+2022-04-19 23:12:24,677 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:12:45,157 - pynamics.integration - INFO - finished integration
+2022-04-19 23:12:45,158 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:13:05,646 - pynamics.integration - INFO - finished integration
+2022-04-19 23:13:05,648 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:13:26,227 - pynamics.integration - INFO - finished integration
+2022-04-19 23:13:26,229 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:13:46,676 - pynamics.integration - INFO - finished integration
+2022-04-19 23:13:46,678 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:46:48,194 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 23:49:56,528 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 23:52:23,193 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 23:57:25,079 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 23:57:50,331 - pynamics.system - INFO - getting dynamic equations
+2022-04-19 23:58:09,715 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:58:28,461 - pynamics.integration - INFO - finished integration
+2022-04-19 23:58:28,466 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:58:47,608 - pynamics.integration - INFO - finished integration
+2022-04-19 23:58:47,614 - pynamics.integration - INFO - beginning integration
+2022-04-19 23:59:07,956 - pynamics.integration - INFO - finished integration
+2022-04-20 00:00:04,358 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:00:23,094 - pynamics.integration - INFO - finished integration
+2022-04-20 00:00:23,097 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:00:41,777 - pynamics.integration - INFO - finished integration
+2022-04-20 00:02:50,380 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:03:09,975 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:03:28,948 - pynamics.integration - INFO - finished integration
+2022-04-20 00:03:28,952 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:03:47,501 - pynamics.integration - INFO - finished integration
+2022-04-20 00:04:27,219 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:04:46,850 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:05:05,827 - pynamics.integration - INFO - finished integration
+2022-04-20 00:05:05,830 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:05:25,186 - pynamics.integration - INFO - finished integration
+2022-04-20 00:05:25,190 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:05:45,429 - pynamics.integration - INFO - finished integration
+2022-04-20 00:06:42,527 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:07:01,930 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:07:20,688 - pynamics.integration - INFO - finished integration
+2022-04-20 00:07:20,691 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:07:39,871 - pynamics.integration - INFO - finished integration
+2022-04-20 00:07:39,875 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:07:59,974 - pynamics.integration - INFO - finished integration
+2022-04-20 00:15:10,932 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:17:49,104 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:19:11,149 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:19:20,055 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:24:37,651 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:24:38,706 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 00:24:45,402 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 00:24:46,601 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 00:24:46,626 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:26:10,686 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:26:11,818 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 00:26:18,414 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 00:26:19,594 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 00:26:19,618 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:49:32,891 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:49:34,031 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 00:49:40,718 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 00:49:41,900 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 00:50:02,282 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:50:03,397 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 00:50:09,991 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 00:50:11,162 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 00:50:53,033 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:50:54,157 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 00:51:00,694 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 00:51:01,862 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 00:51:01,887 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:52:25,246 - pynamics.integration - INFO - finished integration
+2022-04-20 00:56:43,995 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:56:45,154 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 00:56:51,811 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 00:56:52,981 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 00:56:53,003 - pynamics.integration - INFO - beginning integration
+2022-04-20 00:58:16,627 - pynamics.integration - INFO - finished integration
+2022-04-20 00:58:48,637 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 00:58:49,737 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 00:58:56,378 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 00:58:57,545 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 00:58:57,569 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:00:21,007 - pynamics.integration - INFO - finished integration
+2022-04-20 01:00:21,009 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:01:34,340 - pynamics.integration - INFO - finished integration
+2022-04-20 01:01:34,342 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:03:25,680 - pynamics.integration - INFO - finished integration
+2022-04-20 01:03:25,681 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:04:47,762 - pynamics.integration - INFO - finished integration
+2022-04-20 01:04:47,763 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:06:06,080 - pynamics.integration - INFO - finished integration
+2022-04-20 01:06:06,082 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:07:22,140 - pynamics.integration - INFO - finished integration
+2022-04-20 01:07:22,141 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:08:38,845 - pynamics.integration - INFO - finished integration
+2022-04-20 01:08:38,846 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:09:58,260 - pynamics.integration - INFO - finished integration
+2022-04-20 01:09:58,262 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:11:05,888 - pynamics.integration - INFO - finished integration
+2022-04-20 01:11:05,889 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:12:09,927 - pynamics.integration - INFO - finished integration
+2022-04-20 01:12:09,928 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:13:22,103 - pynamics.integration - INFO - finished integration
+2022-04-20 01:13:22,104 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:14:32,816 - pynamics.integration - INFO - finished integration
+2022-04-20 01:14:32,818 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:15:49,055 - pynamics.integration - INFO - finished integration
+2022-04-20 01:15:49,056 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:17:03,742 - pynamics.integration - INFO - finished integration
+2022-04-20 01:17:03,743 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:18:18,601 - pynamics.integration - INFO - finished integration
+2022-04-20 01:18:18,602 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:19:34,199 - pynamics.integration - INFO - finished integration
+2022-04-20 01:19:34,200 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:20:49,653 - pynamics.integration - INFO - finished integration
+2022-04-20 01:20:49,654 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:22:04,385 - pynamics.integration - INFO - finished integration
+2022-04-20 01:22:04,386 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:23:24,397 - pynamics.integration - INFO - finished integration
+2022-04-20 01:23:24,398 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:24:13,598 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 01:24:14,778 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 01:24:21,619 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 01:24:22,843 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 01:24:30,107 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:24:32,251 - pynamics.integration - INFO - finished integration
+2022-04-20 01:24:32,252 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:26:02,097 - pynamics.integration - INFO - finished integration
+2022-04-20 01:26:02,124 - pynamics.output - INFO - calculating outputs
+2022-04-20 01:26:02,128 - pynamics.output - INFO - done calculating outputs
+2022-04-20 01:26:02,747 - pynamics.output - INFO - calculating outputs
+2022-04-20 01:26:02,752 - pynamics.output - INFO - done calculating outputs
+2022-04-20 01:26:20,203 - pynamics.integration - INFO - finished integration
+2022-04-20 01:26:20,205 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:27:36,937 - pynamics.integration - INFO - finished integration
+2022-04-20 01:27:36,939 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:28:52,956 - pynamics.integration - INFO - finished integration
+2022-04-20 01:28:52,958 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:30:09,989 - pynamics.integration - INFO - finished integration
+2022-04-20 01:30:09,990 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:30:55,735 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 01:30:56,873 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 01:31:03,631 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 01:31:04,819 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 01:31:12,169 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:31:26,038 - pynamics.integration - INFO - finished integration
+2022-04-20 01:31:26,040 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:32:40,219 - pynamics.integration - INFO - finished integration
+2022-04-20 01:32:40,246 - pynamics.output - INFO - calculating outputs
+2022-04-20 01:32:40,251 - pynamics.output - INFO - done calculating outputs
+2022-04-20 01:32:40,864 - pynamics.output - INFO - calculating outputs
+2022-04-20 01:32:40,868 - pynamics.output - INFO - done calculating outputs
+2022-04-20 01:32:44,000 - pynamics.integration - INFO - finished integration
+2022-04-20 01:32:44,002 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:34:00,644 - pynamics.integration - INFO - finished integration
+2022-04-20 01:34:00,645 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:34:08,769 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 01:34:09,843 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 01:34:16,578 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 01:34:17,785 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 01:34:25,050 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:35:13,833 - pynamics.integration - INFO - finished integration
+2022-04-20 01:35:13,834 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:35:40,828 - pynamics.integration - INFO - finished integration
+2022-04-20 01:35:40,854 - pynamics.output - INFO - calculating outputs
+2022-04-20 01:35:40,858 - pynamics.output - INFO - done calculating outputs
+2022-04-20 01:35:41,463 - pynamics.output - INFO - calculating outputs
+2022-04-20 01:35:41,467 - pynamics.output - INFO - done calculating outputs
+2022-04-20 01:36:24,510 - pynamics.integration - INFO - finished integration
+2022-04-20 01:36:24,511 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:37:40,408 - pynamics.integration - INFO - finished integration
+2022-04-20 01:37:40,409 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:38:55,458 - pynamics.integration - INFO - finished integration
+2022-04-20 01:38:55,459 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:40:10,506 - pynamics.integration - INFO - finished integration
+2022-04-20 01:40:10,507 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:41:25,709 - pynamics.integration - INFO - finished integration
+2022-04-20 01:41:25,710 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:42:41,524 - pynamics.integration - INFO - finished integration
+2022-04-20 01:42:41,526 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:43:55,029 - pynamics.integration - INFO - finished integration
+2022-04-20 01:43:55,031 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:45:07,068 - pynamics.integration - INFO - finished integration
+2022-04-20 01:45:07,069 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:46:22,528 - pynamics.integration - INFO - finished integration
+2022-04-20 01:46:22,530 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:47:37,337 - pynamics.integration - INFO - finished integration
+2022-04-20 01:47:37,337 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:48:53,039 - pynamics.integration - INFO - finished integration
+2022-04-20 01:48:53,040 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:50:10,292 - pynamics.integration - INFO - finished integration
+2022-04-20 01:50:10,294 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:51:24,514 - pynamics.integration - INFO - finished integration
+2022-04-20 01:51:24,516 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:52:38,643 - pynamics.integration - INFO - finished integration
+2022-04-20 01:52:38,644 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:53:53,025 - pynamics.integration - INFO - finished integration
+2022-04-20 01:53:53,026 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:55:09,020 - pynamics.integration - INFO - finished integration
+2022-04-20 01:55:09,021 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:56:22,149 - pynamics.integration - INFO - finished integration
+2022-04-20 01:56:22,150 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:57:35,347 - pynamics.integration - INFO - finished integration
+2022-04-20 01:57:35,348 - pynamics.integration - INFO - beginning integration
+2022-04-20 01:58:48,112 - pynamics.integration - INFO - finished integration
+2022-04-20 01:58:48,114 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:00:00,150 - pynamics.integration - INFO - finished integration
+2022-04-20 02:00:00,152 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:01:18,867 - pynamics.integration - INFO - finished integration
+2022-04-20 02:01:18,868 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:02:32,328 - pynamics.integration - INFO - finished integration
+2022-04-20 02:02:32,330 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:03:45,367 - pynamics.integration - INFO - finished integration
+2022-04-20 02:03:45,369 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:04:58,582 - pynamics.integration - INFO - finished integration
+2022-04-20 02:04:58,583 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:06:11,118 - pynamics.integration - INFO - finished integration
+2022-04-20 02:06:11,120 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:07:23,745 - pynamics.integration - INFO - finished integration
+2022-04-20 02:07:23,747 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:08:37,027 - pynamics.integration - INFO - finished integration
+2022-04-20 02:08:37,029 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:09:50,182 - pynamics.integration - INFO - finished integration
+2022-04-20 02:09:50,184 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:11:02,008 - pynamics.integration - INFO - finished integration
+2022-04-20 02:11:02,010 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:12:15,366 - pynamics.integration - INFO - finished integration
+2022-04-20 02:12:15,367 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:13:30,661 - pynamics.integration - INFO - finished integration
+2022-04-20 02:13:30,663 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:14:45,278 - pynamics.integration - INFO - finished integration
+2022-04-20 02:14:45,279 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:15:56,796 - pynamics.integration - INFO - finished integration
+2022-04-20 02:15:56,797 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:17:09,557 - pynamics.integration - INFO - finished integration
+2022-04-20 02:17:09,559 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:18:23,142 - pynamics.integration - INFO - finished integration
+2022-04-20 02:18:23,144 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:19:36,289 - pynamics.integration - INFO - finished integration
+2022-04-20 02:19:36,290 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:20:50,594 - pynamics.integration - INFO - finished integration
+2022-04-20 02:20:50,595 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:22:02,274 - pynamics.integration - INFO - finished integration
+2022-04-20 02:22:02,275 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:23:18,785 - pynamics.integration - INFO - finished integration
+2022-04-20 02:23:18,786 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:24:37,334 - pynamics.integration - INFO - finished integration
+2022-04-20 02:24:37,336 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:25:51,849 - pynamics.integration - INFO - finished integration
+2022-04-20 02:25:51,850 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:27:04,787 - pynamics.integration - INFO - finished integration
+2022-04-20 02:27:04,788 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:28:17,599 - pynamics.integration - INFO - finished integration
+2022-04-20 02:28:17,602 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:29:30,537 - pynamics.integration - INFO - finished integration
+2022-04-20 02:29:30,539 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:30:43,719 - pynamics.integration - INFO - finished integration
+2022-04-20 02:30:43,720 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:31:55,353 - pynamics.integration - INFO - finished integration
+2022-04-20 02:31:55,354 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:33:02,485 - pynamics.integration - INFO - finished integration
+2022-04-20 02:33:02,485 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:34:14,512 - pynamics.integration - INFO - finished integration
+2022-04-20 02:34:14,514 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:35:27,482 - pynamics.integration - INFO - finished integration
+2022-04-20 02:35:27,484 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:36:40,381 - pynamics.integration - INFO - finished integration
+2022-04-20 02:36:40,382 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:37:54,040 - pynamics.integration - INFO - finished integration
+2022-04-20 02:37:54,042 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:39:07,432 - pynamics.integration - INFO - finished integration
+2022-04-20 02:39:07,434 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:40:20,685 - pynamics.integration - INFO - finished integration
+2022-04-20 02:40:20,687 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:41:33,506 - pynamics.integration - INFO - finished integration
+2022-04-20 02:41:33,508 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:42:44,849 - pynamics.integration - INFO - finished integration
+2022-04-20 02:42:44,851 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:43:56,108 - pynamics.integration - INFO - finished integration
+2022-04-20 02:43:56,110 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:45:07,729 - pynamics.integration - INFO - finished integration
+2022-04-20 02:45:07,730 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:46:22,845 - pynamics.integration - INFO - finished integration
+2022-04-20 02:46:22,847 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:47:37,400 - pynamics.integration - INFO - finished integration
+2022-04-20 02:47:37,403 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:48:50,081 - pynamics.integration - INFO - finished integration
+2022-04-20 02:48:50,082 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:50:03,249 - pynamics.integration - INFO - finished integration
+2022-04-20 02:50:03,250 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:51:15,717 - pynamics.integration - INFO - finished integration
+2022-04-20 02:51:15,718 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:52:25,912 - pynamics.integration - INFO - finished integration
+2022-04-20 02:52:25,915 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:53:36,957 - pynamics.integration - INFO - finished integration
+2022-04-20 02:53:36,958 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:54:49,693 - pynamics.integration - INFO - finished integration
+2022-04-20 02:54:49,694 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:56:02,266 - pynamics.integration - INFO - finished integration
+2022-04-20 02:56:02,267 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:57:13,794 - pynamics.integration - INFO - finished integration
+2022-04-20 02:57:13,795 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:58:26,154 - pynamics.integration - INFO - finished integration
+2022-04-20 02:58:26,156 - pynamics.integration - INFO - beginning integration
+2022-04-20 02:59:37,821 - pynamics.integration - INFO - finished integration
+2022-04-20 02:59:37,822 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:00:50,810 - pynamics.integration - INFO - finished integration
+2022-04-20 03:00:50,811 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:02:05,624 - pynamics.integration - INFO - finished integration
+2022-04-20 03:02:05,625 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:03:17,227 - pynamics.integration - INFO - finished integration
+2022-04-20 03:03:17,229 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:04:28,242 - pynamics.integration - INFO - finished integration
+2022-04-20 03:04:28,244 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:05:41,007 - pynamics.integration - INFO - finished integration
+2022-04-20 03:05:41,009 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:06:52,381 - pynamics.integration - INFO - finished integration
+2022-04-20 03:06:52,383 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:08:02,682 - pynamics.integration - INFO - finished integration
+2022-04-20 03:08:02,683 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:09:15,194 - pynamics.integration - INFO - finished integration
+2022-04-20 03:09:15,195 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:10:22,458 - pynamics.integration - INFO - finished integration
+2022-04-20 03:10:22,460 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:11:34,906 - pynamics.integration - INFO - finished integration
+2022-04-20 03:11:34,907 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:12:47,940 - pynamics.integration - INFO - finished integration
+2022-04-20 03:12:47,941 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:13:59,014 - pynamics.integration - INFO - finished integration
+2022-04-20 03:13:59,015 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:15:09,590 - pynamics.integration - INFO - finished integration
+2022-04-20 03:15:09,592 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:16:24,195 - pynamics.integration - INFO - finished integration
+2022-04-20 03:16:24,196 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:17:29,533 - pynamics.integration - INFO - finished integration
+2022-04-20 03:17:29,535 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:18:39,891 - pynamics.integration - INFO - finished integration
+2022-04-20 03:18:39,893 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:19:48,976 - pynamics.integration - INFO - finished integration
+2022-04-20 03:19:48,978 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:21:01,216 - pynamics.integration - INFO - finished integration
+2022-04-20 03:21:01,217 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:22:12,881 - pynamics.integration - INFO - finished integration
+2022-04-20 03:22:12,882 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:23:26,208 - pynamics.integration - INFO - finished integration
+2022-04-20 03:23:26,209 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:24:39,299 - pynamics.integration - INFO - finished integration
+2022-04-20 03:24:39,300 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:25:51,403 - pynamics.integration - INFO - finished integration
+2022-04-20 03:25:51,404 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:27:03,456 - pynamics.integration - INFO - finished integration
+2022-04-20 03:27:03,457 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:28:15,508 - pynamics.integration - INFO - finished integration
+2022-04-20 03:28:15,509 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:29:26,905 - pynamics.integration - INFO - finished integration
+2022-04-20 03:29:26,906 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:30:38,024 - pynamics.integration - INFO - finished integration
+2022-04-20 03:30:38,025 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:31:48,196 - pynamics.integration - INFO - finished integration
+2022-04-20 03:31:48,197 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:33:02,088 - pynamics.integration - INFO - finished integration
+2022-04-20 03:33:02,090 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:34:14,644 - pynamics.integration - INFO - finished integration
+2022-04-20 03:34:14,645 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:35:24,734 - pynamics.integration - INFO - finished integration
+2022-04-20 03:35:24,736 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:36:40,000 - pynamics.integration - INFO - finished integration
+2022-04-20 03:36:40,001 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:37:54,188 - pynamics.integration - INFO - finished integration
+2022-04-20 03:37:54,190 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:39:06,800 - pynamics.integration - INFO - finished integration
+2022-04-20 03:39:06,802 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:40:20,297 - pynamics.integration - INFO - finished integration
+2022-04-20 03:40:20,299 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:41:34,514 - pynamics.integration - INFO - finished integration
+2022-04-20 03:41:34,516 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:42:49,000 - pynamics.integration - INFO - finished integration
+2022-04-20 03:42:49,001 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:44:01,219 - pynamics.integration - INFO - finished integration
+2022-04-20 03:44:01,220 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:45:13,405 - pynamics.integration - INFO - finished integration
+2022-04-20 03:45:13,406 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:46:24,503 - pynamics.integration - INFO - finished integration
+2022-04-20 03:46:24,505 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:47:33,914 - pynamics.integration - INFO - finished integration
+2022-04-20 03:47:33,915 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:48:45,866 - pynamics.integration - INFO - finished integration
+2022-04-20 03:48:45,867 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:49:58,817 - pynamics.integration - INFO - finished integration
+2022-04-20 03:49:58,819 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:51:10,217 - pynamics.integration - INFO - finished integration
+2022-04-20 03:51:10,218 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:52:23,096 - pynamics.integration - INFO - finished integration
+2022-04-20 03:52:23,097 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:53:36,501 - pynamics.integration - INFO - finished integration
+2022-04-20 03:53:36,503 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:54:49,262 - pynamics.integration - INFO - finished integration
+2022-04-20 03:54:49,263 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:56:01,230 - pynamics.integration - INFO - finished integration
+2022-04-20 03:56:01,232 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:57:12,508 - pynamics.integration - INFO - finished integration
+2022-04-20 03:57:12,509 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:58:24,973 - pynamics.integration - INFO - finished integration
+2022-04-20 03:58:24,975 - pynamics.integration - INFO - beginning integration
+2022-04-20 03:59:36,438 - pynamics.integration - INFO - finished integration
+2022-04-20 03:59:36,439 - pynamics.integration - INFO - beginning integration
+2022-04-20 04:00:49,395 - pynamics.integration - INFO - finished integration
+2022-04-20 04:00:49,396 - pynamics.integration - INFO - beginning integration
+2022-04-20 04:02:00,692 - pynamics.integration - INFO - finished integration
+2022-04-20 04:02:00,694 - pynamics.integration - INFO - beginning integration
+2022-04-20 04:03:12,620 - pynamics.integration - INFO - finished integration
+2022-04-20 04:03:12,621 - pynamics.integration - INFO - beginning integration
+2022-04-20 04:04:26,231 - pynamics.integration - INFO - finished integration
+2022-04-20 04:04:26,253 - pynamics.integration - INFO - beginning integration
+2022-04-20 04:05:39,413 - pynamics.integration - INFO - finished integration
+2022-04-20 04:05:39,441 - pynamics.output - INFO - calculating outputs
+2022-04-20 04:05:39,446 - pynamics.output - INFO - done calculating outputs
+2022-04-20 09:03:06,504 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 09:03:07,638 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 09:03:14,264 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 09:03:15,460 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 09:03:15,484 - pynamics.integration - INFO - beginning integration
+2022-04-20 09:03:21,517 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 09:03:22,627 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 09:03:29,260 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 09:03:30,463 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 09:03:37,598 - pynamics.integration - INFO - beginning integration
+2022-04-20 09:03:53,269 - pynamics.integration - INFO - finished integration
+2022-04-20 09:03:53,297 - pynamics.output - INFO - calculating outputs
+2022-04-20 09:03:53,301 - pynamics.output - INFO - done calculating outputs
+2022-04-20 09:03:53,905 - pynamics.output - INFO - calculating outputs
+2022-04-20 09:03:53,910 - pynamics.output - INFO - done calculating outputs
+2022-04-20 09:22:20,289 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 09:22:21,402 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 09:22:27,962 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 09:22:29,127 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 09:22:36,151 - pynamics.integration - INFO - beginning integration
+2022-04-20 09:22:59,931 - pynamics.integration - INFO - finished integration
+2022-04-20 09:22:59,958 - pynamics.output - INFO - calculating outputs
+2022-04-20 09:22:59,965 - pynamics.output - INFO - done calculating outputs
+2022-04-20 09:23:00,554 - pynamics.output - INFO - calculating outputs
+2022-04-20 09:23:00,559 - pynamics.output - INFO - done calculating outputs
+2022-04-20 10:07:09,769 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 10:07:18,654 - pynamics.integration - INFO - beginning integration
+2022-04-20 10:08:19,359 - pynamics.system - INFO - getting dynamic equations
+2022-04-20 10:08:20,513 - pynamics.system - INFO - solving a = f/m and creating function
+2022-04-20 10:08:27,144 - pynamics.system - INFO - substituting constrained in Ma-f.
+2022-04-20 10:08:28,312 - pynamics.system - INFO - done solving a = f/m and creating function
+2022-04-20 10:08:35,517 - pynamics.integration - INFO - beginning integration
+2022-04-20 10:08:46,597 - pynamics.integration - INFO - finished integration
+2022-04-20 10:08:46,599 - pynamics.integration - INFO - beginning integration
+2022-04-20 10:10:01,811 - pynamics.integration - INFO - finished integration
+2022-04-20 10:10:01,839 - pynamics.output - INFO - calculating outputs
+2022-04-20 10:10:01,843 - pynamics.output - INFO - done calculating outputs
+2022-04-20 10:10:02,443 - pynamics.output - INFO - calculating outputs
+2022-04-20 10:10:02,447 - pynamics.output - INFO - done calculating outputs
+2022-04-20 10:10:04,567 - pynamics.integration - INFO - finished integration
+2022-04-20 10:10:04,569 - pynamics.integration - INFO - beginning integration
+2022-04-20 10:11:52,811 - pynamics.integration - INFO - finished integration
+2022-04-20 10:11:52,813 - pynamics.integration - INFO - beginning integration
