@@ -15,31 +15,31 @@ title: Foldable Robotics Project
 
 ## Research Question 
 
-* [Develop A Research Question](/Develop_A_Research_Question.md)
+* [Develop A Research Question](/04_Software/05_Markdown/Develop_A_Research_Question.md)
 
-* [Biomechanics Background and Initial Specifications](/Biomechanics_Background_and_Initial_Specifications.md)
+* [Biomechanics Background and Initial Specifications](/04_Software/05_Markdown//Biomechanics_Background_and_Initial_Specifications.md)
 
-* [System Kinematics](/SystemKinematics.md)
+* [System Kinematics](/04_Software/05_Markdown/SystemKinematics.md)
 
-* [Presentation 1](/Presentation_1.md)
+* [Presentation 1](/04_Software/05_Markdown/Presentation_1.md)
 
-* [System Dynamics](/SystemDynamics.md)
+* [System Dynamics](/04_Software/05_Markdown/SystemDynamics.md)
 
-* [Presentation 2](/Presentation_2.md)
+* [Presentation 2](/04_Software/05_Markdown/Presentation_2.md)
 
-* [Design Optimization, Experiment Design, Data Collection, and Analysis](/Design_Optimization_Experiment_Design_Data_Collection_and_Analysis.md)
+* [Design Optimization, Experiment Design, Data Collection, and Analysis](/04_Software/05_Markdown/Design_Optimization_Experiment_Design_Data_Collection_and_Analysis.md)
 
-* [Presentation 3](/Presentation_3.md)
+* [Presentation 3](/04_Software/05_Markdown/Presentation_3.md)
 
-* [Manufacturing](/Manufacturing)
+* [Manufacturing](/04_Software/05_Markdown/Manufacturing)
 
-* [CAD](/CAD/md)
+* [CAD](/04_Software/05_Markdown/CAD.md)
 
-* [Code](/Code.md)
+* [Code](/04_Software/05_Markdown/Code.md)
 
-* [Data](/Data.md)
+* [Data](/04_Software/05_Markdown/Data.md)
 
-* [Gallery](/Gallery.md)
+* [Gallery](/04_Software/05_Markdown/Gallery.md)
 
 ## Background
 
