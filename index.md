@@ -17,7 +17,7 @@ title: Foldable Robotics Project
 
 * [Develop A Research Question](/Develop_A_Research_Question.md)
 
-*  [Biomechanics Background and Initial Specifications](/Biomechanics_Background_and_Initial_Specifications.md)
+* [Biomechanics Background and Initial Specifications](/Biomechanics_Background_and_Initial_Specifications.md)
 
 * [System Kinematics](/SystemKinematics.md)
 
@@ -25,7 +25,15 @@ title: Foldable Robotics Project
 
 * [System Dynamics](/SystemDynamics.md)
 
-* [Presentation 2](Presentation_2.md)
+* [Presentation 2](/Presentation_2.md)
+
+* [Design](/Design_Optimization_Experiment_Design_Data_Collection_and_Analysis.md)
+
+* [Presentation 3](/Presentation_3.md)
+
+* [CAD](/CAD/md)
+
+* [Code](/Code.md)
 
 ## Background
 
