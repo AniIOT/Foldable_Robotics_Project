@@ -48,10 +48,10 @@ title: Foldable Robotics Project
 ## Conclusions and Future Work
 
 ## References
-[1] G. V. Lauder and E. D. Tytell, “Hydrodynamics of undulatory propulsion,” Fish Physiology, pp. 425–468, 2005.
-[2] J. Long, “Muscles, elastic energy, and the dynamics of body stiffness in swimming eels,” American Zoologist, vol. 38, no. 4, pp. 771–792, 1998. 
-[3] E. D. Tytell and G. V. Lauder, “The hydrodynamics of Eel Swimming,” Journal of Experimental Biology, vol. 207, no. 11, pp. 1825–1841, 2004. 
-[4] E. D. Tytell, “The hydrodynamics of EEL swimming II. effect of swimming speed,” Journal of Experimental Biology, vol. 207, no. 19, pp. 3265–3279, 2004. 
-[5] E. D. Tytell, C.-Y. Hsu, T. L. Williams, A. H. Cohen, and L. J. Fauci, “Interactions between internal forces, body stiffness, and fluid environment in a neuromechanical model of lamprey swimming,” Proceedings of the National Academy of Sciences, vol. 107, no. 46, pp. 19832–19837, 2010. 
-[6] D. Q. Nguyen and V. A. Ho, “Kinematic Evaluation of a Series of Soft Actuators in Designing and Eel-inspired Robot.” International Symposium, Honolulu, 12-Jan-2020.
+[1] G. V. Lauder and E. D. Tytell, “Hydrodynamics of undulatory propulsion,” Fish Physiology, pp. 425–468, 2005.<br>
+[2] J. Long, “Muscles, elastic energy, and the dynamics of body stiffness in swimming eels,” American Zoologist, vol. 38, no. 4, pp. 771–792, 1998. <br>
+[3] E. D. Tytell and G. V. Lauder, “The hydrodynamics of Eel Swimming,” Journal of Experimental Biology, vol. 207, no. 11, pp. 1825–1841, 2004. <br>
+[4] E. D. Tytell, “The hydrodynamics of EEL swimming II. effect of swimming speed,” Journal of Experimental Biology, vol. 207, no. 19, pp. 3265–3279, 2004.<br> 
+[5] E. D. Tytell, C.-Y. Hsu, T. L. Williams, A. H. Cohen, and L. J. Fauci, “Interactions between internal forces, body stiffness, and fluid environment in a neuromechanical model of lamprey swimming,” Proceedings of the National Academy of Sciences, vol. 107, no. 46, pp. 19832–19837, 2010. <br>
+[6] D. Q. Nguyen and V. A. Ho, “Kinematic Evaluation of a Series of Soft Actuators in Designing and Eel-inspired Robot.” International Symposium, Honolulu, 12-Jan-2020.<br>
 [7]K. T. Du Clos and J. O. Dabiri, “Thrust generation during steady swimming and acceleration from rest in anguilliform swimmers.” The Company of Biologists Ltd, 2019. 
