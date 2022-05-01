@@ -27,7 +27,7 @@ title: Foldable Robotics Project
 
 * [Presentation 2](/Presentation_2.md)
 
-* [Design](/Design_Optimization_Experiment_Design_Data_Collection_and_Analysis.md)
+* [Design Optimization, Experiment Design, Data Collection, and Analysis](/Design_Optimization_Experiment_Design_Data_Collection_and_Analysis.md)
 
 * [Presentation 3](/Presentation_3.md)
 
