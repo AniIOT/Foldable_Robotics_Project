@@ -37,7 +37,7 @@ title: Foldable Robotics Project
 
 * [Code](/Code.md)
 
-* [Data}(/Data.md)
+* [Data](/Data.md)
 
 * [Gallery](/Gallery.md)
 
