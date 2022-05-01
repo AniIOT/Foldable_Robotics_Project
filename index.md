@@ -31,7 +31,7 @@ title: Foldable Robotics Project
 
 * [Presentation 3](/Presentation_3.md)
 
-* [Manufacturing](/Manufacturing
+* [Manufacturing](/Manufacturing)
 
 * [CAD](/CAD/md)
 
