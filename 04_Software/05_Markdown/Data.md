@@ -24,7 +24,7 @@
 Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflection)
 
  - The above data was plotted and the max deflection was found.
- ![deflection_graph](/01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png)
+ <img src="/01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png" alt="deflection_graph" width="400"/>
  
  - The following Data was also collected to calculate the Beam Stiffness
  
