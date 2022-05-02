@@ -27,7 +27,7 @@ Conclusions | x | x | x | x |
  - Controlled variable: frequency, sweep angle
  - Performance goal: Velocity
  - Research Questions: How does the frequency and servo angle affect velocity of the system? Is there a maximum frequency that the system can handle?.
- - Code: [Frequency Optimization](../Frequency_optimization.md)
+ - Code: [Frequency Optimization](../04_Aniruddha/Markdown/Frequency_optimization.md)
 
 ### 4. Tail length vs velocity
  - Controlled variable: tail link length
