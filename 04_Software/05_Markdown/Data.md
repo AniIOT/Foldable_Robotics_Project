@@ -24,7 +24,7 @@
 Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflection)
 
  - The above data was plotted and the max deflection was found.
- [deflection_graph](../01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png)
+ ![deflection_graph](../01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png)
  
  - The following Data was also collected to calculate the Beam Stiffness
  
@@ -58,8 +58,8 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
 Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Damping)
 
  - The above data was plotted as below
- [damping_graph](../01_Documents/05_Gallery/Experiments/Damping/Damping_graph.png)
- [damping_graph_t0](../01_Documents/05_Gallery/Experiments/Damping/Damping_graph_t0.png)
+ ![damping_graph](../01_Documents/05_Gallery/Experiments/Damping/Damping_graph.png)
+ ![damping_graph_t0](../01_Documents/05_Gallery/Experiments/Damping/Damping_graph_t0.png)
  
  ### Servo Torque
  
