@@ -31,7 +31,7 @@ title: Foldable Robotics Project
 
 * [Presentation 3](/04_Software/05_Markdown/Presentation_3.md)
 
-* [Manufacturing](/04_Software/05_Markdown/Manufacturing)
+* [Manufacturing](/04_Software/05_Markdown/Manufacturing.md)
 
 * [Data](/04_Software/05_Markdown/Data.md)
 
