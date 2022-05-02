@@ -27,6 +27,7 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
  [deflection_graph](../01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png)
  
  - The following Data was also collected to calculate the Beam Stiffness
+ 
 | Weight             | 0.095   | kg  |
 | ------------------ | ------- | --- |
 | Force              | 0.93195 | N   |
@@ -40,7 +41,7 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
  <iframe src="https://giphy.com/embed/6jOCLBToRueUOG4KKx" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6jOCLBToRueUOG4KKx">via GIPHY</a></p>
 
  - The above video was entered into the tracker software to collect the following data.
- - 
+
 | t           | t(zero) | x             | x(zero)       |
 | ----------- | ------- | ------------- | ------------- |
 | 4.27        | 0       | \-0.038121153 | \-0.032621153 |
