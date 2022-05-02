@@ -24,7 +24,7 @@
 Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflection)
 
  - The above data was plotted and the max deflection was found.
- <img src="/01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png" alt="deflection_graph" width="400"/>
+ <img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png" alt="deflection_graph" width="400"/>
  
  - The following Data was also collected to calculate the Beam Stiffness
  
@@ -38,7 +38,7 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
 ### Damping
  - The following video shows how the damping data was collected
  
- <iframe src="https://giphy.com/embed/6jOCLBToRueUOG4KKx" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6jOCLBToRueUOG4KKx">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/6jOCLBToRueUOG4KKx" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6jOCLBToRueUOG4KKx">via GIPHY</a></p>
 
  - The above video was entered into the tracker software to collect the following data.
 
@@ -59,9 +59,9 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Damping
 
  - The above data was plotted as below
 
- <img src="/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph.png" alt="damping_graph" width="400"/>
+ <img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph.png" alt="damping_graph" width="400"/>
  
- <img src="/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph_t0.png" alt="damping_graph_t0" width="400"/>
+ <img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph_t0.png" alt="damping_graph_t0" width="400"/>
  
  ### Servo Torque
  
