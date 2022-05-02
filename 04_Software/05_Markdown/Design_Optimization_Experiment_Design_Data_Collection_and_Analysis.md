@@ -33,4 +33,4 @@ Conclusions | x | x | x | x |
  - Controlled variable: tail link length
  - Performance goal: Velocity
  - Research Questions: How does the tail design affect velocity of the system? Is there a maximum tail length that can be used with the system?
- - Code: [Tail Length Optimization](./04_Software/05_Markdown/Tail_Optimization.md)
+ - Code: [Tail Length Optimization](./Tail_Optimization.md)
