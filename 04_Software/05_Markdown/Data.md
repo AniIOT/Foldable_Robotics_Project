@@ -58,8 +58,10 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
 Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Damping)
 
  - The above data was plotted as below
- ![damping_graph width="400"](/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph.png)
- ![damping_graph_t0](/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph_t0.png)
+
+ <img src="/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph.png" alt="damping_graph" width="400"/>
+ 
+ <img src="/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph_t0.png" alt="damping_graph_t0" width="400"/>
  
  ### Servo Torque
  
