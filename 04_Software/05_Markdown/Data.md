@@ -1,7 +1,9 @@
 # Data
 
 ## Experiments
+
 ### Deflection
+
  - The following video shows how the deflection data was collected
 
 <iframe src="https://giphy.com/embed/jBigSWCbnKB3AughP2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jBigSWCbnKB3AughP2">via GIPHY</a></p>
@@ -19,12 +21,14 @@
 | 2.191666667 | 0.1         | 1.72E-04 |
 | 2.208333333 | 0.116666667 | 2.50E-04 |
 | 2.225       | 0.133333333 | 2.89E-04 |
+
 **Table 1. Snippet of Deflection data**
 
 Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflection)
 
  - The above data was plotted and the max deflection was found.
- <img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png" alt="deflection_graph" width="400"/>
+
+<img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Deflection/Deflection_graph.png" alt="deflection_graph" width="400"/>
  
  - The following Data was also collected to calculate the Beam Stiffness
  
@@ -53,18 +57,19 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
 | 4.37        | 0.1     | \-0.01922408  | \-0.01372408  |
 | 4.386666667 | 0.11667 | \-0.013662832 | \-0.008162832 |
 | 4.403333333 | 0.13333 | \-0.007280394 | \-0.001780394 |
+
 **Table 2. Snippet of Damping Data**
 
 Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Damping)
 
  - The above data was plotted as below
 
- <img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph.png" alt="damping_graph" width="400"/>
+<img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph.png" alt="damping_graph" width="400"/>
  
- <img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph_t0.png" alt="damping_graph_t0" width="400"/>
+<img src="/Foldable_Robotics_Team_2_Swimming/01_Documents/05_Gallery/Experiments/Damping/Damping_Graph_t0.png" alt="damping_graph_t0" width="400"/>
  
- ### Servo Torque
+### Servo Torque
  
  - The following video shows how servo torque was calculated
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Jxt30pl7Zjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jxt30pl7Zjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
