@@ -15,22 +15,22 @@ Conclusions | x | x | x | x |
  - Controlled variable: Segment length, segment height, segment width
  - Performance goal: Velocity
  - Research Questions: How does the segment design affect velocity of the system? Is there a maximum segment length that can be used with the system?
- - Code: [Segment Volume Optimization](/04_Software/03_Anson/Markdown/Length_Constrained_Dynamics_Optimization_Segment_Area.md)
+ - Code: [Segment Volume Optimization](../03_Anson/Markdown/Length_Constrained_Dynamics_Optimization_Segment_Area.md)
 
 ### 2. Constraint link length vs velocity
  - Controlled variable: Constraint link length
  - Performance goal: Velocity
  - Research Questions: How does the overall length constraint affect velocity of the system? Is there a minimum constraint that can be used with the system?
- - Code: [Constraint Link Length Optimization](/04_Software/01_Jacob/Markdown/Length_Constrained_Dynamics_Opimization_Not_Optimizing.md)
+ - Code: [Constraint Link Length Optimization](../01_Jacob/Markdown/Length_Constrained_Dynamics_Opimization_Not_Optimizing.md)
 
 ### 3. Frequency and Sweep Angle  vs velocity
  - Controlled variable: frequency, sweep angle
  - Performance goal: Velocity
  - Research Questions: How does the frequency and servo angle affect velocity of the system? Is there a maximum frequency that the system can handle?.
- - Code: [Frequency Optimization](/04_Software/04_Aniruddha/Markdown/Frequency_optimization.md)
+ - Code: [Frequency Optimization](../04_Aniruddha/Markdown/Frequency_optimization.md)
 
 ### 4. Tail length vs velocity
  - Controlled variable: tail link length
  - Performance goal: Velocity
  - Research Questions: How does the tail design affect velocity of the system? Is there a maximum tail length that can be used with the system?
- - Code: [Tail Length Optimization](/04_Software/02_Bryan/Markdown/Tail_Optimization.md)
+ - Code: [Tail Length Optimization](../02_Bryan/Markdown/Tail_Optimization.md)
