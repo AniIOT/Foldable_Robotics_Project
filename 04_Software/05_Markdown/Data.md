@@ -41,8 +41,8 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
 
 ### Damping
  - The following video shows how the damping data was collected
- 
-<iframe src="https://giphy.com/embed/6jOCLBToRueUOG4KKx" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6jOCLBToRueUOG4KKx"></a></p>
+
+ <iframe src="https://giphy.com/embed/lNh8RrKmvEPEDmiBjQ" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lNh8RrKmvEPEDmiBjQ"></a></p>
 
  - The above video was entered into the tracker software to collect the following data.
 
