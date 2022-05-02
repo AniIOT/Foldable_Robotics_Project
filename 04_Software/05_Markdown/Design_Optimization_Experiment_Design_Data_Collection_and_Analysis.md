@@ -4,8 +4,7 @@
 
 |                         | Anson | Aniruddha | Bryan | Jacob |
 |-------------------------|-------|-----------|-------|-------|
-| **Topic**               | Volume of Segment vs Velocity | Frequency and Sweep angle vs velocity | Tail length vs velocity | Constraint link length vs velocity |
-|-------------------------|-------|-----------|-------|-------| 
+| **Topic**               | **Volume of Segment vs Velocity | Frequency and Sweep angle vs velocity | Tail length vs velocity | Constraint link length vs velocity** |
 | **Design Optimization** |   x   |     x     |   x   |   x   | 
 | **Experiment Design**   |   x   |     x     |   x   |   x   | 
 | **Data Collection**     |   x   |     x     |   x   |   x   | 
