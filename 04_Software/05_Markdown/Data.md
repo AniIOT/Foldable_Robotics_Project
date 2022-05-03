@@ -6,7 +6,7 @@
 
  - The following video shows how the deflection data was collected
 
-<iframe src="https://giphy.com/embed/jBigSWCbnKB3AughP2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jBigSWCbnKB3AughP2"></a></p>
+<img src="https://media.giphy.com/media/jBigSWCbnKB3AughP2/giphy.gif" width="480"/>
 
  - The above video was entered into the tracker software to collect the following data.
 
@@ -42,7 +42,7 @@ Complete data can be found [here](../01_Documents/05_Gallery/Experiments/Deflect
 ### Damping
  - The following video shows how the damping data was collected
 
- <iframe src="https://giphy.com/embed/lNh8RrKmvEPEDmiBjQ" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lNh8RrKmvEPEDmiBjQ"></a></p>
+ <img src="https://media.giphy.com/media/6jOCLBToRueUOG4KKx/giphy.gif" height="480"/>
 
  - The above video was entered into the tracker software to collect the following data.
 
