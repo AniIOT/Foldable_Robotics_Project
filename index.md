@@ -47,6 +47,12 @@ We wanted to know how a length-constrained segmented beam with a compliant tail 
    - Properly scale up the prototype
    - Test it in a free swim
    - Continue research on the gates of undulating aquatic animals
+ - The outputs of our parameter optimization are as follows
+   - Segment Volume - length=27.6mm height=10mm
+   - Tail Length = 10mm
+   - Sweep Frequency - 2.13Hz 
+   - Constraint Link Length - 151.8 mm
+  
 
 
 ## Conclusions and Future Work
