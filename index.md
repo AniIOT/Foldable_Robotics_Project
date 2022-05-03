@@ -55,7 +55,7 @@ We wanted to know how a length-constrained segmented beam with a compliant tail 
    - Sweep Frequency - 2.13Hz 
    - Constraint Link Length - 151.8 mm
   
-
+<iframe src="https://giphy.com/embed/QW4wPd85ysxR1jALnX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QW4wPd85ysxR1jALnX">via GIPHY</a></p>
 
 ## Conclusions and Future Work
 In the future, there are a couple of improvements that we would like to make.  The first would be to see if it is possible to convert the stiff spine into a foldable part.  The current design uses a 3D printed spine to provide a rigid structure that the two pivot points and the motor mounts to.  To replace this, a future team could look into creating a laminate structure that doubles up the current tail thickness to obtain an ideal thickness.  Second, making the system free-floating and designing it around the weight of the actuator would change how the system was optimized.  The current optimization is focused on just the tail without the weight of the motor or any support structure, and the weight of the actuator is too much for the current design to propel.  Optimizing the tail with the weight of the motor would definitely change the dimensions of the design.  Finally, the shape of the tail could be optimized.  For our system, we kept the tail a rectangular shape to make simulation much easier.  However, a more optimized tail might be able to handle producing more thrust that could be used for propulsion.
