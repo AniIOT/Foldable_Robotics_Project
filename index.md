@@ -40,6 +40,8 @@ title: Foldable Robotics Project
 ## Background
 We wanted to know how a length-constrained segmented beam with a compliant tail could propagate a sinusoidal wave to produce anguilliform locomotion in this project. Our team members come from various experiences and provide a variety of perspectives to the project. This project aims to replicate the motion of an eel's tail and enhance the velocity of a similar robot that has already been built. We also want to reduce production costs by employing foldable methods.
 
+<iframe src="https://giphy.com/embed/f9Ba9odhFwq60wB9bR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OceanaOrg-ribbon-eel-f9Ba9odhFwq60wB9bR">via GIPHY</a></p>
+
 ## Results
  - This project has helped  to further research into aquatic foldable robots
  - It also helped to contribute to the understanding of undulating aquatic animals
